@@ -11,6 +11,7 @@ from app.chabot_session import ChatbotSession
 from config.conf import API_KEY, SECRET_KEY, SQLALCHEMY_DATABASE_URI
 from http import HTTPStatus
 
+
 class ChatbotAPI:
     def __init__(self):
         self.app = Flask(__name__)
@@ -54,11 +55,11 @@ class ChatbotAPI:
             if guid not in self.chat_session.active_chatbots:
                 initial_message = f'Nombre del usuario: {name}'
                 self.chat_session.create_session(
-                    guid, 
-                    API_KEY, 
-                    'data/data.csv', 
-                    'data/embeddings.csv', 
-                    initial_message, 
+                    guid,
+                    API_KEY,
+                    'data/data.csv',
+                    'data/embeddings.csv',
+                    initial_message,
                 )
 
             self._save_user_record(guid, name, mail)
@@ -85,14 +86,14 @@ class ChatbotAPI:
                 user_record = Records.query.filter_by(guid=guid).first()
                 if not user_record:
                     return jsonify({'error': 'User record not found'}), HTTPStatus.BAD_REQUEST
-                
+
                 # Create new chatbot session
                 initial_message = f'Nombre del usuario: {user_record.name}'
                 self.chat_session.create_session(
-                    guid, 
-                    API_KEY, 
-                    'data/data.csv', 
-                    'data/embeddings.csv', 
+                    guid,
+                    API_KEY,
+                    'data/data.csv',
+                    'data/embeddings.csv',
                     initial_message
                 )
                 chatbot = self.chat_session.get_chatbot(guid)
@@ -101,7 +102,7 @@ class ChatbotAPI:
             self._save_interaction(guid, question, answer)
 
             return jsonify({
-                'answer': answer, 
+                'answer': answer,
                 'conversation': conversation
             })
 

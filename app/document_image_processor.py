@@ -2,10 +2,6 @@ import os
 import base64
 import tempfile
 from io import BytesIO
-
-from PIL import Image
-from pdf2image import convert_from_path
-from docx2pdf import convert as docx_to_pdf_convert
 from app.openai_api import OpenAIApi  # Asegúrate de que esta clase esté implementada
 
 class DocumentImageProcessor:
