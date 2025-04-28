@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nueva Conversación</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/form.css') }}" />
+
+    <!-- Scripts -->
+    <script defer src="static/form.js"></script>
+</head>
+
+<body>
+    <!-- Main Container -->
+    <div class="main-cont">
+        <!-- Container Welcome -->
+        <div class="cont-welcome">
+            <!-- Content -->
+            <div class="content-welcome">
+                Sistema de Respuesta
+                <p>
+                    Universidad Sergio Arboleda<br />
+                    Bienvenido al Sistema Virtual de Respuesta.
+                    Por favor ingrese los siguientes datos:
+                </p>
+            </div>
+        </div>
+
+        <!-- Container Form -->
+        <div class="cont-form">
+            <div class="content-form">
+                <!-- Content -->
+                <div class="cont-content">
+                    <form class="form" action="">
+                        <!-- Item 1: Nombre -->
+                        <div class="form-item">
+                            <label for="name" class="lbl-input">
+                                <span id="span-name">Nombre</span>
+                                <input type="text" id="name" name="name" class="input-form" />
+                            </label>
+                            <h3 class="warning-text" id="warning-text-name">Debe ingresar su nombre</h3>
+                        </div>
+
+                        <!-- Item 2: Correo Electrónico -->
+                        <div class="form-item">
+                            <label for="mail" class="lbl-input">
+                                <span id="span-mail">Correo Electrónico</span>
+                                <input type="email" id="mail" name="mail" class="input-form" />
+                            </label>
+                            <h3 class="warning-text" id="warning-text-mail">Debe ingresar su Correo electrónico</h3>
+                            <h3 class="warning-text" id="warning-invalid-mail">Por favor, ingresa un Correo Electrónico
+                                válido (Ejemplo: usuario@gmail.com)</h3>
+                        </div>
+
+                        <!-- Item 5: Checkbox de aceptación -->
+                        <div class="form-item item-checkbox">
+                            <div class="content-item-checkbox" id="cont-checkbox">
+                                <input type="checkbox" name="confAttention" id="checkConfAttention"
+                                    class="checkboxAttention" />
+                                <b id="text-check">
+                                    Acepto las <a
+                                        href="https://www.usergioarboleda.edu.co/politica-tratamiento-la-informacion"
+                                        target="_blank">políticas de privacidad de datos</a>
+                                </b>
+                            </div>
+                            <h3 class="warning-text" id="warning-text-checkConfAttention">Debes aceptar para continuar
+                            </h3>
+                        </div>
+                    </form>
+
+                    <div class="cont-btn">
+                        <button class="btn-new-conv" id="btn-new-conv">Iniciar atención</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

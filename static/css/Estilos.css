@@ -1,0 +1,389 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  margin: 0px auto !important;
+  height: 100%;
+  width: 60%;
+  font-family: "Nunito", sans-serif;
+}
+
+/*Main body distribution customization*/
+.container {
+  
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #d3dcde;
+  padding: 0px !important;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+/*Header customization*/
+
+.header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-bottom: 5px solid #3366CC;
+  height: 17%;
+  background: linear-gradient(to right, #3366CC, #3366CC);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 25px 0px 25px 40px;
+  margin: 0px;
+}
+
+.profilePicture {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px
+}
+
+.profilePicture img {
+  width: 100%; 
+  height: 100%;
+  object-fit: cover; 
+}
+
+.profileText {
+  margin-left: 20px;
+  margin-top: 20px
+}
+
+.profileText > p {
+  margin: 0;
+  font-size: 19px;
+  color: white;
+}
+
+.profileText p:last-of-type {
+  font-weight: bold;
+}
+
+.closeButton {
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  color: white;
+  background-color: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none !important;
+}
+
+/*Chat and input spaces*/
+.mainblock {
+  width: 100%;
+  height: 87%;
+  overflow: hidden; /* Evita que el contenido salga del contenedor */
+}
+
+.Chatwindow-container {
+  width: 100%;
+  height: calc(87% - 10px); /* Ajustar altura dinámicamente */
+  background-color: #3366CC61;
+  overflow-y: auto; /* Permite el desplazamiento vertical */
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+
+.Chatwindow {  /*Secondary chat, hidden*/
+  visibility: hidden;
+  position: absolute;
+  left: -9999px;
+  top: -9999px;
+}
+
+.chat {
+  padding: 10px 20px;
+  width: 100%;
+  height: 100%;
+  border: none;
+  resize: none;
+  outline: none;
+  overflow-y: scroll;
+}
+
+/*  Messages customization */
+
+.message {
+  border-radius: 10px;
+  padding: 10px 10px 10px 50px;
+  margin-bottom: 10px;
+  width: fit-content;
+  min-width: 80px;
+  min-height: 30px;
+  max-width: 100%;
+  word-wrap: break-word;
+  position: relative;
+  padding-left: 15px;
+  z-index: 2;
+}
+
+.spacer {
+  width: 100%;
+  height: 5px;
+  background-color: transparent;
+  position: relative;
+  float: right;
+}
+
+.sent {
+  background-color: rgba(3, 138, 255, 0.8);
+  color: white;
+  float: right;
+  box-shadow: -5px 4px 4px rgba(0, 0, 0, 0.4);
+}
+
+.received {
+  background-color: white;
+  float: left;
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.4);
+}
+
+.sent::before {
+  content: "";
+  position: absolute;
+  top: 0%;
+  right: -20px;
+  border-style: solid;
+  border-width: 0px 10px 30px 40px;
+  border-color: transparent transparent transparent #3395ED;
+  z-index: -1;
+}
+
+.received::before {
+  content: "";
+  position: absolute;
+  top: 0%;
+  left: -20px;
+  border-style: solid;
+  border-width: 0px 34px 30px 10px;
+  border-color: transparent white transparent transparent;
+  z-index: -1;
+}
+
+/*User input bar customization*/
+
+.inputWindow-container {
+  border-radius: 10px;
+  min-height: 12%;
+  max-height: 25%;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  background-color: #e8e8e8;
+  padding: 10px;
+  box-sizing: border-box;
+  gap: 10px; /* Espacio entre elementos */
+}
+
+.input-box {
+  flex-grow: 1; /* Ocupa todo el espacio disponible */
+  display: flex;
+  align-items: flex-start;
+  background-color: #e8e8e8;
+}
+
+#question {
+  width: 100%;
+  min-height: 40px;
+  max-height: 90px; /* Altura máxima para 3 líneas aproximadamente */
+  line-height: 20px; /* Altura de línea para texto */
+  resize: none;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow-y: auto;
+  transition: height 0.1s ease-out;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+.btnContainer {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 5px; /* Alinear con el textarea */
+}
+
+#send {
+  background-color: #3366CC;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 19px;
+  border-radius: 5px;
+  height: 40px; /* Altura fija para alineación */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes beat {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.3);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+#send:hover i {
+  animation: beat 0.6s ease infinite;
+}
+
+/*Feedback window customization*/
+.feedbackWindow-container {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  background-color: white;
+  padding: 5px;
+  border: black solid 1px;
+  border-radius: 10px;
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.4);
+  position: relative;
+  float: left;
+}
+
+.feedbackText {
+  margin-right: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedbackText > p {
+  margin: 0px 10px 0px 0px;
+  font-size: 18px;
+  font-weight: 400;
+  color: black;
+}
+
+/*PopUp, Incorrect window customization*/
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 3;
+}
+
+.correctionWindow-container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  height: fit-content;
+  border: black solid 1px;
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.4);
+  z-index: 4;
+}
+
+.correctionWindow-header {
+  margin: 0px;
+  position: relative;
+  background-color: white;
+  width: 100%;
+  height: fit-content;
+}
+
+.correctionWindow-header h4 {
+  color: grey;
+  font-size: 1.5rem;
+}
+
+.correctionWindow-header p {
+  margin-top: 2%;
+  padding-left: 10px;
+  font-size: 1.1rem;
+}
+
+.pupUpCloseBtn {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  color: black;
+  background-color: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none !important;
+  z-index: 4;
+}
+
+.correctionWindow-textArea {
+  font-size: 19px !important;
+  padding: 0px 0.75rem !important;
+  margin-bottom: 2%;
+}
+
+#submitCorrection {
+  align-self: flex-end;
+  width: fit-content;
+  position: right;
+}
+
+/*Scrollbar customization*/
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: white;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(199, 195, 195);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(150, 142, 142);
+}
+
+/* Agrega estos estilos CSS para el fondo blanco */
+.white-background {
+  background-color: white;
+  padding: 10px; /* Puedes ajustar el valor de padding según sea necesario */
+}
+
+@media (max-width: 900px) {
+  body{
+  margin: 0px 0px 0px 0px !important;
+  height: 100%;
+  width: 100% !important;
+  }
+
+  .header {
+    padding: 25px 0px 25px 3px;
+  }
+
+  .correctionWindow-container {
+    width: 100%;
+  }
+};

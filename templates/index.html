@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chatbot</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/Estilos.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+  </head>
+
+  <body>
+    <div class="container" id="chat">
+      <div class="header">
+        <div class="profilePicture white-background">
+          <img src="static/images/Logo_Usa.png" alt="USA Logo" style="width: 100%; height: 100%; object-fit: contain;"/>
+        </div>
+        <div class="profileText">
+          <p>Escuela de Ciencias Exactas e Ingenieria</p>
+          <p>¡En línea!</p>
+        </div>
+        <button id="closeButton" class="closeButton" type="button">
+          <i class="fa-solid fa-circle-xmark fa-2xl"></i>
+        </button>
+      </div>
+  
+      <div class="mainblock">
+        <div class="Chatwindow-container">
+          <textarea id="conversation" class="Chatwindow" readonly></textarea>
+          <div class="chat" id="chatCanvas">
+            <div class="message received">
+              Saludos, bienvenid@ al servicio de consulta de la Escuela de Ciencias Exactas e Ingenieria de la Universidad Sergio Arboleda, soy tu asesor virtual! En qué te puedo ayudar?
+            </div>
+            <div class="spacer"></div>
+          </div>
+        </div>
+  
+        <div class="inputWindow-container">
+          <textarea 
+            id="question" 
+            rows="1"
+            placeholder="Escribe tu mensaje aquí..."
+            style="min-height: 40px; max-height: 150px; resize: none; overflow-y: auto;"
+          ></textarea>
+          <div class="btnContainer">
+            <button
+              type="submit"
+              id="send"
+              type="button"
+              onclick="sendMessage()"
+              class="btn btn-primary btn-size"
+            >
+              <i class="fa-regular fa-paper-plane" style="color: white"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/static/script.js"></script>
+  </body>
+  
+</html>

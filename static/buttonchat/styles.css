@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+#webchatmaindivcontent {
+    position: fixed;
+    bottom: 99px;
+    right: 20px;
+    height: 641px;
+    width: 375px !important;
+    max-height: -webkit-fill-available;
+    z-index: -1;
+}
+
+#webchatmaindivcontent.isWebchatOpen {
+    z-index: 9999999 !important;
+}
+
+#iframeWebChat {
+    position: relative;
+    bottom: -25px;
+    opacity: 0;
+    right: 0;
+    z-index: -1 !important;
+    transition: all .2s cubic-bezier(0.12, 0.64, 1, 0.99);
+}
+
+#iframeWebChat.showIframe {
+    position: relative;
+    bottom: 0px;
+    opacity: 1;
+    right: 0;
+    min-height: 200px;
+    z-index: 100 !important;
+    transition: all .2s cubic-bezier(0.12, 0.64, 1, 0.99);
+    border-radius: 6px;
+    box-shadow: 0 5px 40px rgba(0, 0, 0, .16)!important;
+}
+
+.unread-messages-holder {
+    position: fixed;
+    right: 10px;
+    bottom: 89px;
+    width: 255px;
+    height: 0px;
+    opacity: 0;
+    z-index: 1;
+    text-align: -webkit-right;
+    transition: all .3s ease;
+}
+
+.unread-messages-holder.show {
+    opacity: 1;
+}
+
+.wc-new-message {
+    position: relative;
+    display: table;
+    color: #6b6b6b;
+    font-size: 11px;
+    padding: 12px 21px;
+    margin: 6px 20px;
+    max-width: 211px;
+    text-align: left;
+    opacity: .9;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+    box-shadow: -1px 3px 20px 1px #00000024;
+    border-radius: 5px;
+    opacity: 0;
+    transition: all 3s ease;
+}
+
+.wc-new-message::after {
+    content: "";
+    border-bottom: 20px solid #ffffff;
+    border-right: 11px solid #ffffff00;
+    position: absolute;
+    right: -4px;
+    bottom: 0px;
+}
+
+.wc-new-message.show {
+    opacity: 1;
+    transition: all .3s ease;
+}
+
+.badgeCounter {
+    position: fixed;
+    background-color: red;
+    color: #fff;
+    z-index: 99999999;
+    opacity: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    border-radius: 50%;
+    box-shadow: -1px 1px 3px -1px #0009;
+    transition: all .25s ease-out;
+    width: 0px;
+    height: 1px;
+    padding: 1px 2px 7px 7px;
+    right: 31px;
+    bottom: 68px;
+    font-size: 1px;
+    transform: rotate(72deg);
+}
+
+.badgeCounter.show {
+    opacity: 1;
+    right: 20px;
+    bottom: 65px;
+    width: 2px;
+    font-size: 12px;
+    height: 12px;
+    padding: 2px 12px 6px 7px;
+    transform: rotate(0deg);
+}
+
+#startChat {
+    position: fixed;
+    right: 60px;
+    bottom: 10px;
+    background-color: #fff;
+    color: #fff;
+    font-size: 8px;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    cursor: pointer !important;
+    outline: none;
+    border: 0;
+    padding: 12px 12px;
+    z-index: -1;
+    opacity: 0;
+    transform: rotate(92deg);
+    box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+    transition: all .2s cubic-bezier(0.42, 0.65, 0.83, 1.27);
+}
+
+#startChat.hide {
+    opacity: 0 !important;
+}
+
+#startChat svg {
+    width: 10px;
+    height: 10px;
+    transition: all .2s ease-out;
+}
+
+#startChat.buttonReady {
+    opacity: 1;
+    height: 60px;
+    width: 60px;
+    font-size: 23px;
+    z-index: 999999;
+    right: 22px;
+    bottom: 22px;
+    padding: 19px 12px;
+    transform: rotate(0deg);
+    transition: all .2s cubic-bezier(0.42, 0.65, 0.83, 1.27);
+}
+
+#startChat.buttonReady svg {
+    width: 27px;
+    height: 27px;
+    margin:auto;
+}
+
+#startChat::after {
+    content: "";
+    width: 60px !important;
+    height: 60px!important;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0px;
+    display: block;
+    background-color: transparent;
+    transition: all .1s ease-out;
+}
+
+#startChat:hover::after {
+    background-color: #ffffff24;
+}
+
+#startChat:active::after {
+    background-color: #29292938;
+}
+
+#webchatmaindivcontent iframe {
+    border: none;
+    width: 100%;
+    height: 100%
+}
+
+@media screen and (max-height: 760px) {
+    #webchatmaindivcontent {
+        top: 20px;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body.activeintegrachat {
+        overflow-y: hidden !important;
+        -webkit-overflow-scrolling: touch;
+        position: fixed;
+    }
+    #webchatmaindivcontent {
+        height: 100%;
+        top: 0px;
+        width: calc(100%) !important;
+        left: -1px;
+        z-index: -999;
+    }
+    #webchatmaindivcontent.isWebchatOpen {
+        z-index: 99999999 !important;
+    }
+    #iframeWebChat {
+        position: relative;
+        bottom: -25px;
+        opacity: 0;
+        right: 0;
+        z-index: -1;
+        transition: all .2s cubic-bezier(0.12, 0.64, 1, 0.99);
+    }
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.frame-loader {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: -4px;
+    left: 3px;
+    border: 3px solid transparent;
+    border-bottom: 3px solid white;
+    border-top: 3px solid white;
+    border-radius: 50%;
+    animation: spin .5s infinite linear;
+}
+
+.button-message{
+    max-width: 200px;
+    position: fixed;
+    right: 30px;
+    bottom: 100px;
+    border: 1px solid #eaf0f6;
+    background: #fff;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    padding: 24px 16px 16px;
+}
+
+.button-message-close{
+    background: none;
+    border: none;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    color: rgb(124, 152, 182);
+    display: flex;
+    align-items: flex-start;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    padding-right: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.button-message-p{
+    margin-top: -4px;
+    margin-bottom: 0;
+    white-space: pre-line;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: rgb(51, 71, 91);
+    line-height: 24px;
+}
