@@ -19,7 +19,7 @@ class Chatbot:
         self.openai = OpenAIApi(api_key)
         self.embeddings = EmbeddingsManager(embeddings_path, data_path)
         self.conversation = []
-        self.conversation = [SUBJECT_INFO,ROLE]
+        self.conversation = [ROLE]
 
     def ask_question(self, question):
         """
