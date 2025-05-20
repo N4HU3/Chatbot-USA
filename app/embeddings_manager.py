@@ -27,7 +27,7 @@ class EmbeddingsManager:
             self.df = embedding
             print("Embedding generado correctamente")
 
-    def search(self, query, n_results=2, similarity_threshold=0.75):
+    def search(self, query, n_results=2, similarity_threshold=0.7):
         """
         Searches for the most similar responses to a given query in the embedded data.
 
