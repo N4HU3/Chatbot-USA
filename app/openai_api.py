@@ -1,6 +1,5 @@
 import time
 import openai
-import openai
 from openai.error import RateLimitError
 from config.conf import API_KEY
 

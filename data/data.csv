@@ -1,152 +1,152 @@
-PREGUNTA,RESPUESTA,
-¿Qué debo tener en cuenta antes de realizar mi horario?,"1. Revisar el simulador de horarios disponible en la página web para tener opciones de inscripción. 2. Validar en SAP la fecha de asignación de matrícula, recuerda que la misma es determinada por promedio acumulado de permanencia. 3. Verificar que no tenga bloqueo por documentos, en caso de tenerlo remitir solicitud de retiro al correo ecei@usa.edu.co. 4. Proceder a la inscripción de asignaturas.",
-¿Qué debo hacer si no me permite hacer horario por bloqueo?,"Si tu bloqueo es por documentos, solicita el retiro del mismo al correo ecei@usa.edu.co. Si es financiero, contacta a apoyo financiero.",
-¿Es posible matricular asignaturas antes de la fecha asignada por el sistema?,"No, el sistema determina la fecha y hora de inscripción teniendo en cuenta el promedio acumulado de permanencia, para evitar congestión al realizar la matrícula.",
-¿Qué debo hacer si el sistema solo me permite matricular algunos créditos o no me permite matricular?,Comunícate con coordinación académica. Puede que estés en normativa académica por tener un promedio acumulado de permanencia inferior a 3.3.,
-¿Qué debo hacer si ya pasó el día y/o hora asignada para matrícula?,"Todas las noches, luego de las 7:00 p.m., se habilitará el sistema para matrícula y/o cambios hasta el cierre de fechas de matrículas, si ya pasó tu cita asignada.",
-¿Es posible la apertura de cupos para una asignatura?,"No, las asignaturas se ofertan según el pronóstico de aspirantes y capacidad de espacios. Debes optar por otra asignatura.",
-¿Qué debo hacer en caso de cruce de horario?,"Consulta el simulador de horarios para evitar cruces. Si se presenta un cruce, debes optar por otra asignatura. No se pueden hacer modificaciones que afecten a otros estudiantes ya inscritos.",
-¿Es posible el cierre de asignaturas ya ofertadas?,"Sí, se exige contar con mínimo 7 estudiantes matriculados. Si no se cumple, la asignatura no puede ofertarse y se cierra el grupo.",
-¿Cómo debo gestionar una incapacidad médica?,"Preséntala al centro médico de la universidad para su legalización. Ellos notificarán a la escuela y justificarán las fallas en el sistema. Las fallas se justifican, no se retiran.",
-¿Con cuántas fallas pierdo una asignatura?,Debes cumplir con el 80% de asistencia según el reglamento estudiantil. Esto se calcula en base al número de horas semanales por las 16 semanas del semestre académico.,
-¿Qué debo hacer para postularme a grados?,"Una vez completes tu plan de estudios, incluyendo práctica profesional y opción de grado, postúlate a la Fase I del proceso para obtener tu Marcación como futuro egresado en el siguiente link.",
-¿Qué opciones de grado se encuentran ofertadas?,"- Trabajo de grado - Estudio coterminal - Plan de negocios - Semilleros - Ingeniería humanitaria - Práctica profesional Solo válido para estudiantes de los programas de Ciencias de la computación e IA, Ingeniería Electrónica y Matemáticas que pertenecen al nuevo plan de estudios.",
-¿En qué consiste el trabajo de grado?,"Es una modalidad que permite a un estudiante, o grupo de estudiantes, desarrollar un trabajo teórico o experimental aplicando conocimientos adquiridos durante la formación profesional para la solución de un problema, necesidad o servicio, el cual debe ser delimitado y alcanzable. Más información: - Director de Ingeniería y Tecnología: Rafael Cerpa (rafael.cerpa@usa.edu.co) - Directora de Ingeniería y Medio Ambiente: María Clara Sánchez (mariacla.sanchez@usa.edu.co) - Director de Ingeniería y Organización: Juan Sebastián Escobar (juan.escobar02@usa.edu.co) - Directora de Ciencias Básicas y Matemáticas: Marta Corrales (martha.corrales@usa.edu.co)",
-¿En qué consiste el estudio coterminal como opción de grado?,"Permite que el estudiante profundice en un área del conocimiento desarrollando competencias profesionales cursando y aprobando un mínimo de 8 créditos académicos ofertados por los programas de posgrado de la Escuela de Ciencias Exactas e Ingeniería de la Universidad Sergio Arboleda. Autorización: Haber aprobado el 85% de los créditos académicos y solicitar la carta de autorización junto con tu nombre completo, número de identificación y nombre del programa de posgrado elegido al correo: heyly.casteblanco@usa.edu.co. Más información: link",
-¿En qué consiste el plan de negocios como opción de grado?,"Transformar Sueños en Empresa es un programa de aceleración empresarial que ofrece a los emprendedores capacitación, herramientas y metodologías para ayudar a impulsar sus negocios de manera exponencial y sostenible. Más información: nubia.chavez@usa.edu.co o WhatsApp 3148518483.",
-¿En qué consiste semilleros como opción de grado?,"Es un escenario académico que promueve desde el aprendizaje experiencial la iniciación en investigación científica, desarrollo tecnológico, creación artística y cultural, o innovación. El estudiante debe estar inscrito durante no menos de un (1) año, dos semestres lectivos consecutivos. Más información: - Ciencias de la Computación e Inteligencia Artificial, Ingeniería de Sistemas e Ingeniería Electrónica: Ing. Ronald Hurtado (ronald.hurtado@usa.edu.co) - Ingeniería Ambiental: Ellie López (ellie.lopez@usa.edu.co) - Ingeniería Industrial: Ing. Miguel Ariza (miguelan.ariza@usa.edu.co) - Matemáticas: Dra. Marta Corrales (martha.corrales@usa.edu.co)",
-¿En qué consiste ingeniería humanitaria como opción de grado?,"Formación de profesionales capaces de co-crear soluciones de impacto con comunidades en situaciones de vulnerabilidad económica, social o ambiental, bajo la metodología de Aprendizaje Basado en Retos, donde el reto se define como una necesidad real de una fundación o comunidad. Más información: alejandro.ruiz@usa.edu.co",
-¿En qué consiste la práctica profesional como opción de grado?,"Solo es válida para estudiantes de los programas de Ciencias de la Computación e IA, Ingeniería Electrónica y Matemáticas que pertenecen al nuevo plan de estudios. Más información: practicas.ecei@usa.edu.co",
-¿Quién es la Coordinadora de Prácticas y Egresados?,Nombre: Sandra Rodríguez.,
-¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados en relación con las prácticas profesionales?,"- Realizar taller de inducción a práctica profesional. - Gestionar proceso de formalización y legalización de práctica profesional. - Hacer el seguimiento y acompañamiento a instancias de prácticas profesionales de inicio a cierre. - Elaborar informes de indicadores, hallazgos y gestión del proceso de práctica profesional.",
-¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados en relación con empresas?,"- Gestionar la base de datos de empresas. - Gestionar las visitas y salidas académicas empresariales. - Gestionar el relacionamiento con las empresas patrocinadoras de práctica profesional (portafolio educativo, convenios, proyectos aplicados, consultoría, educación continuada).",
-¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados respecto a los egresados?,"- Gestionar espacios de contacto permanente con los egresados de las ofertas académicas. - Gestionar el indicador de egresados no graduados y graduados. - Gestionar la base de datos y ofertas de empleo de los egresados de la Escuela. - Difundir, diseñar y visibilizar instrumentos de evaluación e historias inspiradoras de los egresados de la Escuela. - Gestionar y realizar iniciativas de valor agregado para los egresados. - Organizar y gestionar eventos de premiación a egresados de la Escuela.",
-¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados en internacionalización?,"- Recibir y dar trámite a cartas de solicitudes especiales de los estudiantes según sea el caso. - Llevar una estadística de indicadores de resultado y de proceso para la internacionalización (comunicación oportuna de ofertas, formatos de intercambio, seguimiento al estudiante, convenios).",
-¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados en gestión académica?,- Apoyar en la aprobación y revisión de expedientes de grado conforme a la vertical académica del estudiante. - Apoyar en los estudios de homologación y el diligenciamiento de la respectiva documentación para su formalización ante la secretaria de la institución. - Generar y tramitar recibos para las competencias certificables de los programas que pertenecen a la unidad académica. - Apoyar la gestión de programación académica correspondiente a la oferta (cronograma y asignación docente de acuerdo con la directriz de la dirección). - Gestionar la entrega y satisfacción total de la oferta de educación continuada. - Gestionar el cumplimiento de cronograma para las ofertas académicas de educación continuada. - Gestionar la base y repositorio de indicadores para la evaluación de desempeño de los docentes de educación continuada.,
+PREGUNTA,RESPUESTA
+¿Qué debo tener en cuenta antes de realizar mi horario?,"1. Revisar el simulador de horarios disponible en la página web para tener opciones de inscripción. 2. Validar en SAP la fecha de asignación de matrícula, recuerda que la misma es determinada por promedio acumulado de permanencia. 3. Verificar que no tenga bloqueo por documentos, en caso de tenerlo remitir solicitud de retiro al correo ecei@usa.edu.co. 4. Proceder a la inscripción de asignaturas."
+¿Qué debo hacer si no me permite hacer horario por bloqueo?,"Si tu bloqueo es por documentos, solicita el retiro del mismo al correo ecei@usa.edu.co. Si es financiero, contacta a apoyo financiero."
+¿Es posible matricular asignaturas antes de la fecha asignada por el sistema?,"No, el sistema determina la fecha y hora de inscripción teniendo en cuenta el promedio acumulado de permanencia, para evitar congestión al realizar la matrícula."
+¿Qué debo hacer si el sistema solo me permite matricular algunos créditos o no me permite matricular?,Comunícate con coordinación académica. Puede que estés en normativa académica por tener un promedio acumulado de permanencia inferior a 3.3.
+¿Qué debo hacer si ya pasó el día y/o hora asignada para matrícula?,"Todas las noches, luego de las 7:00 p.m., se habilitará el sistema para matrícula y/o cambios hasta el cierre de fechas de matrículas, si ya pasó tu cita asignada."
+¿Es posible la apertura de cupos para una asignatura?,"No, las asignaturas se ofertan según el pronóstico de aspirantes y capacidad de espacios. Debes optar por otra asignatura."
+¿Qué debo hacer en caso de cruce de horario?,"Consulta el simulador de horarios para evitar cruces. Si se presenta un cruce, debes optar por otra asignatura. No se pueden hacer modificaciones que afecten a otros estudiantes ya inscritos."
+¿Es posible el cierre de asignaturas ya ofertadas?,"Sí, se exige contar con mínimo 7 estudiantes matriculados. Si no se cumple, la asignatura no puede ofertarse y se cierra el grupo."
+¿Cómo debo gestionar una incapacidad médica?,"Preséntala al centro médico de la universidad para su legalización. Ellos notificarán a la escuela y justificarán las fallas en el sistema. Las fallas se justifican, no se retiran."
+¿Con cuántas fallas pierdo una asignatura?,Debes cumplir con el 80% de asistencia según el reglamento estudiantil. Esto se calcula en base al número de horas semanales por las 16 semanas del semestre académico.
+¿Qué debo hacer para postularme a grados?,"Una vez completes tu plan de estudios, incluyendo práctica profesional y opción de grado, postúlate a la Fase I del proceso para obtener tu Marcación como futuro egresado en el siguiente link."
+¿Qué opciones de grado se encuentran ofertadas?,"- Trabajo de grado - Estudio coterminal - Plan de negocios - Semilleros - Ingeniería humanitaria - Práctica profesional Solo válido para estudiantes de los programas de Ciencias de la computación e IA, Ingeniería Electrónica y Matemáticas que pertenecen al nuevo plan de estudios."
+¿En qué consiste el trabajo de grado?,"Es una modalidad que permite a un estudiante, o grupo de estudiantes, desarrollar un trabajo teórico o experimental aplicando conocimientos adquiridos durante la formación profesional para la solución de un problema, necesidad o servicio, el cual debe ser delimitado y alcanzable. Más información: - Director de Ingeniería y Tecnología: Rafael Cerpa (rafael.cerpa@usa.edu.co) - Directora de Ingeniería y Medio Ambiente: María Clara Sánchez (mariacla.sanchez@usa.edu.co) - Director de Ingeniería y Organización: Juan Sebastián Escobar (juan.escobar02@usa.edu.co) - Directora de Ciencias Básicas y Matemáticas: Marta Corrales (martha.corrales@usa.edu.co)"
+¿En qué consiste el estudio coterminal como opción de grado?,"Permite que el estudiante profundice en un área del conocimiento desarrollando competencias profesionales cursando y aprobando un mínimo de 8 créditos académicos ofertados por los programas de posgrado de la Escuela de Ciencias Exactas e Ingeniería de la Universidad Sergio Arboleda. Autorización: Haber aprobado el 85% de los créditos académicos y solicitar la carta de autorización junto con tu nombre completo, número de identificación y nombre del programa de posgrado elegido al correo: heyly.casteblanco@usa.edu.co. Más información: link"
+¿En qué consiste el plan de negocios como opción de grado?,"Transformar Sueños en Empresa es un programa de aceleración empresarial que ofrece a los emprendedores capacitación, herramientas y metodologías para ayudar a impulsar sus negocios de manera exponencial y sostenible. Más información: nubia.chavez@usa.edu.co o WhatsApp 3148518483."
+¿En qué consiste semilleros como opción de grado?,"Es un escenario académico que promueve desde el aprendizaje experiencial la iniciación en investigación científica, desarrollo tecnológico, creación artística y cultural, o innovación. El estudiante debe estar inscrito durante no menos de un (1) año, dos semestres lectivos consecutivos. Más información: - Ciencias de la Computación e Inteligencia Artificial, Ingeniería de Sistemas e Ingeniería Electrónica: Ing. Ronald Hurtado (ronald.hurtado@usa.edu.co) - Ingeniería Ambiental: Ellie López (ellie.lopez@usa.edu.co) - Ingeniería Industrial: Ing. Miguel Ariza (miguelan.ariza@usa.edu.co) - Matemáticas: Dra. Marta Corrales (martha.corrales@usa.edu.co)"
+¿En qué consiste ingeniería humanitaria como opción de grado?,"Formación de profesionales capaces de co-crear soluciones de impacto con comunidades en situaciones de vulnerabilidad económica, social o ambiental, bajo la metodología de Aprendizaje Basado en Retos, donde el reto se define como una necesidad real de una fundación o comunidad. Más información: alejandro.ruiz@usa.edu.co"
+¿En qué consiste la práctica profesional como opción de grado?,"Solo es válida para estudiantes de los programas de Ciencias de la Computación e IA, Ingeniería Electrónica y Matemáticas que pertenecen al nuevo plan de estudios. Más información: practicas.ecei@usa.edu.co"
+¿Quién es la Coordinadora de Prácticas y Egresados?,Nombre: Sandra Rodríguez.
+¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados en relación con las prácticas profesionales?,"- Realizar taller de inducción a práctica profesional. - Gestionar proceso de formalización y legalización de práctica profesional. - Hacer el seguimiento y acompañamiento a instancias de prácticas profesionales de inicio a cierre. - Elaborar informes de indicadores, hallazgos y gestión del proceso de práctica profesional."
+¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados en relación con empresas?,"- Gestionar la base de datos de empresas. - Gestionar las visitas y salidas académicas empresariales. - Gestionar el relacionamiento con las empresas patrocinadoras de práctica profesional (portafolio educativo, convenios, proyectos aplicados, consultoría, educación continuada)."
+¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados respecto a los egresados?,"- Gestionar espacios de contacto permanente con los egresados de las ofertas académicas. - Gestionar el indicador de egresados no graduados y graduados. - Gestionar la base de datos y ofertas de empleo de los egresados de la Escuela. - Difundir, diseñar y visibilizar instrumentos de evaluación e historias inspiradoras de los egresados de la Escuela. - Gestionar y realizar iniciativas de valor agregado para los egresados. - Organizar y gestionar eventos de premiación a egresados de la Escuela."
+¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados en internacionalización?,"- Recibir y dar trámite a cartas de solicitudes especiales de los estudiantes según sea el caso. - Llevar una estadística de indicadores de resultado y de proceso para la internacionalización (comunicación oportuna de ofertas, formatos de intercambio, seguimiento al estudiante, convenios)."
+¿Cuáles son las funciones de la Coordinadora de Prácticas y Egresados en gestión académica?,- Apoyar en la aprobación y revisión de expedientes de grado conforme a la vertical académica del estudiante. - Apoyar en los estudios de homologación y el diligenciamiento de la respectiva documentación para su formalización ante la secretaria de la institución. - Generar y tramitar recibos para las competencias certificables de los programas que pertenecen a la unidad académica. - Apoyar la gestión de programación académica correspondiente a la oferta (cronograma y asignación docente de acuerdo con la directriz de la dirección). - Gestionar la entrega y satisfacción total de la oferta de educación continuada. - Gestionar el cumplimiento de cronograma para las ofertas académicas de educación continuada. - Gestionar la base y repositorio de indicadores para la evaluación de desempeño de los docentes de educación continuada.
 ¿Quién es la Coordinadora Académica?,"Las coordinadoras academicas son: 1. Yasmín Vargas
 2. Liliana Castro
-3. Heyly Castelblanco",
-¿Cuál es la función de la Coordinadora Académica Yasmín Vargas en el Programa de Talentos Matemáticos?,"Coordinar el Programa de Talentos Matemáticos: oferta, admisiones, presupuesto, contrataciones, cargue de cursos, asignación de espacios, matrícula, bienvenida, clausura y atención de las solicitudes que lleguen y las comunicaciones derivadas del manejo del mismo.",
-¿Qué debe hacer la Coordinadora Académica Yasmín Vargas respecto a la divulgación de cursos y coloquios?,"Solicitar piezas para la divulgación de los cursos ofertados, coloquios del programa de matemática y enviar correos masivos a base de colegios (interna).",
-¿Cuál es la función de la Coordinadora Académica Yasmín Vargas en la feria de proyectos?,Realizar la feria de proyectos con los stands para cada curso y realizar la clausura con la entrega de los certificados a cada estudiante.,
-¿Cómo realiza la Coordinadora Académica Yasmín Vargas el seguimiento a estudiantes en ECEI?,"Seguimiento a los interesados, matriculados y desertados de la ECEI.",
-¿Qué evento apoya la Coordinadora Académica Yasmín Vargas con los colegios?,"Apoyo en la organización del Encuentro Juvenil de Matemáticas (EJM), evento externo con el Colegio Próspero Pinzón y el Abraham Bilingual School.",
-¿Cuál es la función de la Coordinadora Académica Yasmín Vargas respecto a las visitas de profesores a colegios?,Coordinar las visitas de los profesores a colegios y la logística de transporte y horarios de la salida.,
-¿Qué funciones tiene la Coordinadora Académica Yasmín Vargas en la preparación del presupuesto?,Preparación y revisión del presupuesto administrativo.,
-¿Qué coordina la Coordinadora Académica Yasmín Vargas en la bienvenida a estudiantes?,"Coordinar los aspectos logísticos de la bienvenida a los estudiantes de programas académicos y la elaboración de eventos académicos de promoción (lugar, carpeta, horarios, instrucciones, presentes, etc.).",
-¿Cómo maneja la Coordinadora Académica Yasmín Vargas los procesos de investigación?,Recibir y dar trámite a la información necesaria para la legalización de los procesos de investigación con actores internos y externos a la ECEI.,
-¿Qué coordina la Coordinadora Académica Yasmín Vargas en los semilleros de investigación y trabajos de grado?,Coordinar la sustentación de semilleros de investigación y trabajos de grado. Gestionar el respectivo cargue a la vertical académica.,
-¿Cómo asigna la Coordinadora Académica Yasmín Vargas los jurados y asesores de trabajo de grado?,Asignar los jurados y asesores de trabajo de grado según las instrucciones de la Dirección.,
-¿Qué gestiona la Coordinadora Académica Yasmín Vargas en las salidas académicas?,Gestionar transporte y necesidades logísticas como activación de seguros académicos y autorización de ingreso por parte de seguridad para las salidas académicas.,
-¿Qué requerimientos logísticos maneja la Coordinadora Académica Yasmín Vargas para eventos académicos?,"Gestionar requerimientos logísticos para soporte de salones de posgrados y reserva de espacio, solicitud de estación de café, premios y/o refrigerios para eventos académicos.",
-¿Cómo tramita la Coordinadora Académica Yasmín Vargas cuentas y adquisiciones en la ECEI?,"Tramitar cuentas de cobro, compras, mantenimiento, viajes y/o adquisiciones de solicitudes requeridas en la ECEI para pregrados y posgrados.",
-¿Qué informes realiza la Coordinadora Académica Yasmín Vargas para la institución?,Realizar informes de investigación para procesos internos y externos de la institución.,
-¿Cómo gestiona la Coordinadora Académica Yasmín Vargas la reserva de papelería y material de grado?,Gestionar y asegurar la reserva de papelería y material de grado para la Escuela.,
-¿Cómo asegura la Coordinadora Académica Yasmín Vargas el buen estado de las instalaciones?,Asegurar y velar por el buen estado de las instalaciones de la Escuela.,
-¿Qué controla la Coordinadora Académica Yasmín Vargas respecto a los puestos de trabajo?,"Asignar y controlar puestos de trabajo de docentes y administrativos, asegurando que cuenten con todos los requerimientos.",
-¿Cómo maneja la Coordinadora Académica Yasmín Vargas la comunicación con organizaciones externas?,Gestionar los canales de comunicación con las organizaciones externas para asuntos operativos de investigación.,
-¿Qué informes de ejecución realiza la Coordinadora Académica Yasmín Vargas?,"Realizar y gestionar informes de ejecución, saldos presupuestales y caja menor.",
-¿Cuál es la función de la Coordinadora Académica Liliana Castro en el seguimiento y acompañamiento a estudiantes?,Realizar el seguimiento y acompañamiento a estudiantes en su calidad de psicóloga.,
-¿Qué seguimiento realiza la Coordinadora Académica Liliana Castro en normativa académica y casos especiales?,"Realizar seguimiento, asesoría, orientación y referenciación a estudiantes de la ECEI en normativa académica, USAPI, estudiantes con intención de retiro, quienes reprueben asignaturas y solicitudes especiales.",
-¿Qué hace la Coordinadora Académica Liliana Castro con las solicitudes de retiro y traslado?,Recibir y dar trámite a las solicitudes de retiro y traslado.,
-¿Cómo maneja la Coordinadora Académica Liliana Castro la documentación de procesos disciplinarios?,"Elaborar, diligenciar y generar la documentación necesaria para dar soporte y trámite a los procesos disciplinarios.",
-¿Qué coordina la Coordinadora Académica Liliana Castro en cuanto a tutorías y supletorios?,"Realizar la coordinación de tutorías y supletorios de la ECEI y departamento de matemáticas: creación de franjas, seguimiento asistencia de docentes a tutoría, control de tutorías para nómina, orientación a docentes y estudiantes para registro y solicitud de tutorías.",
-¿Qué talleres realiza la Coordinadora Académica Liliana Castro relacionados con la actitud matemática?,"Realizar talleres de actitud matemática donde se abordan temas relacionados con psicología del aprendizaje, técnicas de estudio, actitud y aprendizaje, preparación mental para la presentación de exámenes, inteligencia emocional, inteligencias múltiples, atención, motivación, memoria, entre otros.",
-¿Qué seguimiento realiza la Coordinadora Académica Liliana Castro en el proceso de matrícula?,"Acompañar el seguimiento de aspirantes entrevistados y estudiantes para el proceso de matrícula, estableciendo contacto y orientación en fechas establecidas.",
-¿Cómo gestiona la Coordinadora Académica Liliana Castro los indicadores de admisión?,Llevar un seguimiento de los indicadores en los procesos de admisión a los programas académicos.,
-¿Qué apoyo brinda la Coordinadora Académica Liliana Castro en la coordinación de monitores?,"Apoyar la coordinación de monitores en entrevistas para la selección de monitores, comunicación con decanatura para los procesos de pago de incentivos, análisis y evaluación de monitores para informe de desempeño, apoyo a talleres libres para estudiantes del departamento y establecimiento de monitores para estudiantes del programa que así lo requieran.",
-¿Qué convocatorias gestiona la Coordinadora Académica Liliana Castro?,Lanzar convocatorias para reclutamiento de talento humano de acuerdo con los lineamientos de la Dirección y Decanatura.,
-¿Qué documentos redacta la Coordinadora Académica Liliana Castro según instrucciones de la Dirección?,Redactar memorandos y llamados de atención de acuerdo con instrucciones de la Dirección o Decanatura de la Escuela.,
-¿Cómo maneja la Coordinadora Académica Liliana Castro las solicitudes de certificados?,Recibir y dar trámite a las solicitudes de certificados por parte de la planta docente y administrativa.,
-¿Qué debe consolidar y enviar la Coordinadora Académica Liliana Castro para los docentes?,"Consolidar y enviar el kit de Bienvenida Docente, según el programa académico.",
-¿Cómo gestiona la Coordinadora Académica Liliana Castro el repositorio estadístico?,"Gestionar el repositorio estadístico de indicadores de calidad, Delphos, notas, reporte semestral docente, SABER PRO y visitas a salones.",
-¿Qué asesoría facilita la Coordinadora Académica Liliana Castro a los egresados?,"Facilitar la asesoría profesional a los egresados para búsqueda, actualización, cambio de carrera y desarrollo de habilidades.",
-¿Qué reportes debe hacer la Coordinadora Académica Liliana Castro al área de talento humano?,"Reportar al área de talento humano la continuidad y no continuidad del personal, según las instrucciones de la dirección y decanatura.",
-¿Qué verifica y hace seguimiento la Coordinadora Académica Liliana Castro en cuanto a contenidos programáticos?,Verificar y hacer seguimiento al cargue de contenidos programáticos y asistencia.,
-¿Cómo mantiene la Coordinadora Académica Liliana Castro actualizadas las aulas virtuales?,Mantener actualizadas las aulas virtuales en función de los procesos de enseñanza de la Escuela.,
-¿Qué función tiene la Coordinadora Académica Heyly Castelblanco en las entrevistas?,Apoyar las entrevistas cuando el Director no pueda llevar a cabo estas.,
-¿Cómo gestiona la Coordinadora Académica Heyly Castelblanco los indicadores de opciones de grado?,Gestionar indicadores de opciones de grado.,
-¿Qué debe hacer la Coordinadora Académica Heyly Castelblanco respecto a los derechos de petición?,Dar respuesta a los derechos de petición en los tiempos de ley y con el respectivo soporte.,
-¿Qué función tiene la Coordinadora Académica Heyly Castelblanco en la revisión de expedientes de grado?,Aprobar y revisar el expediente de grado conforme a la vertical académica del estudiante.,
-¿Cómo maneja la Coordinadora Académica Heyly Castelblanco los estudios de homologación?,Realizar los estudios de homologación y el diligenciamiento de la respectiva documentación para su formalización ante la secretaria de la institución.,
-¿Qué permisos gestiona la Coordinadora Académica Heyly Castelblanco?,Gestionar permisos especiales de inscripción y retiro de materias.,
-¿Qué proceso de egresados activa la Coordinadora Académica Heyly Castelblanco?,"Activar y gestionar el proceso de ""Marcación como futuro egresado"".",
-¿Qué instrumentos lanza la Coordinadora Académica Heyly Castelblanco durante el semestre?,Lanzar los instrumentos de medición y calidad en el intermedio y final del semestre.,
-¿Cómo gestiona la Coordinadora Académica Heyly Castelblanco la información de indicadores de calidad?,"Consolidar y cargar la información a la base de datos de indicadores para seguimiento de gestión de calidad. Docentes, estudiantes y administrativos.",
-¿Qué programación realiza la Coordinadora Académica Heyly Castelblanco?,Realizar la programación académica correspondiente a la oferta. Cronograma y asignación docente de acuerdo con directriz de la dirección.,
-¿Cómo maneja la Coordinadora Académica Heyly Castelblanco las PQR?,Gestionar la atención a las PQR.,
-¿Qué soporte brinda la Coordinadora Académica Heyly Castelblanco en auditorías?,Soportar los procesos de auditoría interna y externa de las unidades académicas.,
-¿Qué gestiona la Coordinadora Académica Heyly Castelblanco respecto a cambios de plan de estudios?,Gestionar y soportar cambios de plan de estudios en vertical SAP.,
-¿Cómo trabaja la Coordinadora Académica Heyly Castelblanco con los Directores?,Trabajar y articular con los Directores las necesidades y pertinencia de las ofertas académicas.,
-¿Cuándo se puede visitar el Observatorio Astronómico?,El Observatorio astronómico de la Universidad Sergio Arboleda tiene diferentes actividades para visitar como son: tertulias aeroespaciales y jueves de observación,
-¿Cómo me Inscribo para el Jueves de Observación?,"Para ingresar a todas nuestras actividades debes registrarte a cada uno de los eventos que quieras asistir, los links de registro los encontraras en la página web de la Universidad Sergio Arboleda apartado observatorio astronómico o en nuestras redes sociales ""Observatorio Astronómico Universidad Sergio Arboleda"" en Facebook o en Instagram como la @lasergioescosmos",
-¿Qué otras Actividades se realizan en el Observatorio Astronómico?,"El Observatorio astronómico de la Universidad Sergio Arboleda tiene varias actividades de acceso gratuito, como son nuestras tertulias aeroespaciales las cuales se realizan los días martes, lo mismo que nuestros conocidos jueves de observación que como su nombre lo indican se realizan todos los jueves del año.",
-¿Como reservar el Planetario del Observatorio Astronómico?,"Para reservar los espacios del observatorio astronómico ""temas académicos"" Cúpula y planetario debes dirigirte al piso 10 de la torre F donde encontraras las oficinas, allí podrás hacer la reserva con el equipo del observatorio astronómico.",
-¿Como reservar la Cúpula del Observatorio Astronómico?,"Para reservar los espacios del observatorio astronómico ""temas académicos"" Cúpula y planetario debes dirigirte al piso 10 de la torre F donde encontraras las oficinas, allí podrás hacer la reserva con el equipo del observatorio astronómico.",
-¿Dónde Encuentro la Agenda de Actividades del Observatorio Astronómico?,La Agenda de actividades la puedes encontrar en la página web de la Universidad Sergio Arboleda apartado Observatorio Astronómico o en nuestras redes sociales en Facebook Observatorio Astronómico Universidad Sergio Arboleda o en Instagram @lasergioescosmos,
-¿Donde se encuentra ubicado el Observatorio Astronómico?,El Observatorio Astronómico se encuentra en la Torre F piso 10,
-¿Que debo hacer para asistir a las actividades del Observatorio Astronómico?,Para asistir a las distintas actividades del Observatorio astronómico debes registrarte a cada una de nuestras actividades a través de la página web de la Universidad Sergio Arboleda apartado Observatorio Astronómico o en nuestras redes sociales en Facebook Observatorio Astronomico Universidad Sergio Arboleda o en Instagram @lasergioescosmos,
+3. Heyly Castelblanco"
+¿Cuál es la función de la Coordinadora Académica Yasmín Vargas en el Programa de Talentos Matemáticos?,"Coordinar el Programa de Talentos Matemáticos: oferta, admisiones, presupuesto, contrataciones, cargue de cursos, asignación de espacios, matrícula, bienvenida, clausura y atención de las solicitudes que lleguen y las comunicaciones derivadas del manejo del mismo."
+¿Qué debe hacer la Coordinadora Académica Yasmín Vargas respecto a la divulgación de cursos y coloquios?,"Solicitar piezas para la divulgación de los cursos ofertados, coloquios del programa de matemática y enviar correos masivos a base de colegios (interna)."
+¿Cuál es la función de la Coordinadora Académica Yasmín Vargas en la feria de proyectos?,Realizar la feria de proyectos con los stands para cada curso y realizar la clausura con la entrega de los certificados a cada estudiante.
+¿Cómo realiza la Coordinadora Académica Yasmín Vargas el seguimiento a estudiantes en ECEI?,"Seguimiento a los interesados, matriculados y desertados de la ECEI."
+¿Qué evento apoya la Coordinadora Académica Yasmín Vargas con los colegios?,"Apoyo en la organización del Encuentro Juvenil de Matemáticas (EJM), evento externo con el Colegio Próspero Pinzón y el Abraham Bilingual School."
+¿Cuál es la función de la Coordinadora Académica Yasmín Vargas respecto a las visitas de profesores a colegios?,Coordinar las visitas de los profesores a colegios y la logística de transporte y horarios de la salida.
+¿Qué funciones tiene la Coordinadora Académica Yasmín Vargas en la preparación del presupuesto?,Preparación y revisión del presupuesto administrativo.
+¿Qué coordina la Coordinadora Académica Yasmín Vargas en la bienvenida a estudiantes?,"Coordinar los aspectos logísticos de la bienvenida a los estudiantes de programas académicos y la elaboración de eventos académicos de promoción (lugar, carpeta, horarios, instrucciones, presentes, etc.)."
+¿Cómo maneja la Coordinadora Académica Yasmín Vargas los procesos de investigación?,Recibir y dar trámite a la información necesaria para la legalización de los procesos de investigación con actores internos y externos a la ECEI.
+¿Qué coordina la Coordinadora Académica Yasmín Vargas en los semilleros de investigación y trabajos de grado?,Coordinar la sustentación de semilleros de investigación y trabajos de grado. Gestionar el respectivo cargue a la vertical académica.
+¿Cómo asigna la Coordinadora Académica Yasmín Vargas los jurados y asesores de trabajo de grado?,Asignar los jurados y asesores de trabajo de grado según las instrucciones de la Dirección.
+¿Qué gestiona la Coordinadora Académica Yasmín Vargas en las salidas académicas?,Gestionar transporte y necesidades logísticas como activación de seguros académicos y autorización de ingreso por parte de seguridad para las salidas académicas.
+¿Qué requerimientos logísticos maneja la Coordinadora Académica Yasmín Vargas para eventos académicos?,"Gestionar requerimientos logísticos para soporte de salones de posgrados y reserva de espacio, solicitud de estación de café, premios y/o refrigerios para eventos académicos."
+¿Cómo tramita la Coordinadora Académica Yasmín Vargas cuentas y adquisiciones en la ECEI?,"Tramitar cuentas de cobro, compras, mantenimiento, viajes y/o adquisiciones de solicitudes requeridas en la ECEI para pregrados y posgrados."
+¿Qué informes realiza la Coordinadora Académica Yasmín Vargas para la institución?,Realizar informes de investigación para procesos internos y externos de la institución.
+¿Cómo gestiona la Coordinadora Académica Yasmín Vargas la reserva de papelería y material de grado?,Gestionar y asegurar la reserva de papelería y material de grado para la Escuela.
+¿Cómo asegura la Coordinadora Académica Yasmín Vargas el buen estado de las instalaciones?,Asegurar y velar por el buen estado de las instalaciones de la Escuela.
+¿Qué controla la Coordinadora Académica Yasmín Vargas respecto a los puestos de trabajo?,"Asignar y controlar puestos de trabajo de docentes y administrativos, asegurando que cuenten con todos los requerimientos."
+¿Cómo maneja la Coordinadora Académica Yasmín Vargas la comunicación con organizaciones externas?,Gestionar los canales de comunicación con las organizaciones externas para asuntos operativos de investigación.
+¿Qué informes de ejecución realiza la Coordinadora Académica Yasmín Vargas?,"Realizar y gestionar informes de ejecución, saldos presupuestales y caja menor."
+¿Cuál es la función de la Coordinadora Académica Liliana Castro en el seguimiento y acompañamiento a estudiantes?,Realizar el seguimiento y acompañamiento a estudiantes en su calidad de psicóloga.
+¿Qué seguimiento realiza la Coordinadora Académica Liliana Castro en normativa académica y casos especiales?,"Realizar seguimiento, asesoría, orientación y referenciación a estudiantes de la ECEI en normativa académica, USAPI, estudiantes con intención de retiro, quienes reprueben asignaturas y solicitudes especiales."
+¿Qué hace la Coordinadora Académica Liliana Castro con las solicitudes de retiro y traslado?,Recibir y dar trámite a las solicitudes de retiro y traslado.
+¿Cómo maneja la Coordinadora Académica Liliana Castro la documentación de procesos disciplinarios?,"Elaborar, diligenciar y generar la documentación necesaria para dar soporte y trámite a los procesos disciplinarios."
+¿Qué coordina la Coordinadora Académica Liliana Castro en cuanto a tutorías y supletorios?,"Realizar la coordinación de tutorías y supletorios de la ECEI y departamento de matemáticas: creación de franjas, seguimiento asistencia de docentes a tutoría, control de tutorías para nómina, orientación a docentes y estudiantes para registro y solicitud de tutorías."
+¿Qué talleres realiza la Coordinadora Académica Liliana Castro relacionados con la actitud matemática?,"Realizar talleres de actitud matemática donde se abordan temas relacionados con psicología del aprendizaje, técnicas de estudio, actitud y aprendizaje, preparación mental para la presentación de exámenes, inteligencia emocional, inteligencias múltiples, atención, motivación, memoria, entre otros."
+¿Qué seguimiento realiza la Coordinadora Académica Liliana Castro en el proceso de matrícula?,"Acompañar el seguimiento de aspirantes entrevistados y estudiantes para el proceso de matrícula, estableciendo contacto y orientación en fechas establecidas."
+¿Cómo gestiona la Coordinadora Académica Liliana Castro los indicadores de admisión?,Llevar un seguimiento de los indicadores en los procesos de admisión a los programas académicos.
+¿Qué apoyo brinda la Coordinadora Académica Liliana Castro en la coordinación de monitores?,"Apoyar la coordinación de monitores en entrevistas para la selección de monitores, comunicación con decanatura para los procesos de pago de incentivos, análisis y evaluación de monitores para informe de desempeño, apoyo a talleres libres para estudiantes del departamento y establecimiento de monitores para estudiantes del programa que así lo requieran."
+¿Qué convocatorias gestiona la Coordinadora Académica Liliana Castro?,Lanzar convocatorias para reclutamiento de talento humano de acuerdo con los lineamientos de la Dirección y Decanatura.
+¿Qué documentos redacta la Coordinadora Académica Liliana Castro según instrucciones de la Dirección?,Redactar memorandos y llamados de atención de acuerdo con instrucciones de la Dirección o Decanatura de la Escuela.
+¿Cómo maneja la Coordinadora Académica Liliana Castro las solicitudes de certificados?,Recibir y dar trámite a las solicitudes de certificados por parte de la planta docente y administrativa.
+¿Qué debe consolidar y enviar la Coordinadora Académica Liliana Castro para los docentes?,"Consolidar y enviar el kit de Bienvenida Docente, según el programa académico."
+¿Cómo gestiona la Coordinadora Académica Liliana Castro el repositorio estadístico?,"Gestionar el repositorio estadístico de indicadores de calidad, Delphos, notas, reporte semestral docente, SABER PRO y visitas a salones."
+¿Qué asesoría facilita la Coordinadora Académica Liliana Castro a los egresados?,"Facilitar la asesoría profesional a los egresados para búsqueda, actualización, cambio de carrera y desarrollo de habilidades."
+¿Qué reportes debe hacer la Coordinadora Académica Liliana Castro al área de talento humano?,"Reportar al área de talento humano la continuidad y no continuidad del personal, según las instrucciones de la dirección y decanatura."
+¿Qué verifica y hace seguimiento la Coordinadora Académica Liliana Castro en cuanto a contenidos programáticos?,Verificar y hacer seguimiento al cargue de contenidos programáticos y asistencia.
+¿Cómo mantiene la Coordinadora Académica Liliana Castro actualizadas las aulas virtuales?,Mantener actualizadas las aulas virtuales en función de los procesos de enseñanza de la Escuela.
+¿Qué función tiene la Coordinadora Académica Heyly Castelblanco en las entrevistas?,Apoyar las entrevistas cuando el Director no pueda llevar a cabo estas.
+¿Cómo gestiona la Coordinadora Académica Heyly Castelblanco los indicadores de opciones de grado?,Gestionar indicadores de opciones de grado.
+¿Qué debe hacer la Coordinadora Académica Heyly Castelblanco respecto a los derechos de petición?,Dar respuesta a los derechos de petición en los tiempos de ley y con el respectivo soporte.
+¿Qué función tiene la Coordinadora Académica Heyly Castelblanco en la revisión de expedientes de grado?,Aprobar y revisar el expediente de grado conforme a la vertical académica del estudiante.
+¿Cómo maneja la Coordinadora Académica Heyly Castelblanco los estudios de homologación?,Realizar los estudios de homologación y el diligenciamiento de la respectiva documentación para su formalización ante la secretaria de la institución.
+¿Qué permisos gestiona la Coordinadora Académica Heyly Castelblanco?,Gestionar permisos especiales de inscripción y retiro de materias.
+¿Qué proceso de egresados activa la Coordinadora Académica Heyly Castelblanco?,"Activar y gestionar el proceso de ""Marcación como futuro egresado""."
+¿Qué instrumentos lanza la Coordinadora Académica Heyly Castelblanco durante el semestre?,Lanzar los instrumentos de medición y calidad en el intermedio y final del semestre.
+¿Cómo gestiona la Coordinadora Académica Heyly Castelblanco la información de indicadores de calidad?,"Consolidar y cargar la información a la base de datos de indicadores para seguimiento de gestión de calidad. Docentes, estudiantes y administrativos."
+¿Qué programación realiza la Coordinadora Académica Heyly Castelblanco?,Realizar la programación académica correspondiente a la oferta. Cronograma y asignación docente de acuerdo con directriz de la dirección.
+¿Cómo maneja la Coordinadora Académica Heyly Castelblanco las PQR?,Gestionar la atención a las PQR.
+¿Qué soporte brinda la Coordinadora Académica Heyly Castelblanco en auditorías?,Soportar los procesos de auditoría interna y externa de las unidades académicas.
+¿Qué gestiona la Coordinadora Académica Heyly Castelblanco respecto a cambios de plan de estudios?,Gestionar y soportar cambios de plan de estudios en vertical SAP.
+¿Cómo trabaja la Coordinadora Académica Heyly Castelblanco con los Directores?,Trabajar y articular con los Directores las necesidades y pertinencia de las ofertas académicas.
+¿Cuándo se puede visitar el Observatorio Astronómico?,El Observatorio astronómico de la Universidad Sergio Arboleda tiene diferentes actividades para visitar como son: tertulias aeroespaciales y jueves de observación
+¿Cómo me Inscribo para el Jueves de Observación?,"Para ingresar a todas nuestras actividades debes registrarte a cada uno de los eventos que quieras asistir, los links de registro los encontraras en la página web de la Universidad Sergio Arboleda apartado observatorio astronómico o en nuestras redes sociales ""Observatorio Astronómico Universidad Sergio Arboleda"" en Facebook o en Instagram como la @lasergioescosmos"
+¿Qué otras Actividades se realizan en el Observatorio Astronómico?,"El Observatorio astronómico de la Universidad Sergio Arboleda tiene varias actividades de acceso gratuito, como son nuestras tertulias aeroespaciales las cuales se realizan los días martes, lo mismo que nuestros conocidos jueves de observación que como su nombre lo indican se realizan todos los jueves del año."
+¿Como reservar el Planetario del Observatorio Astronómico?,"Para reservar los espacios del observatorio astronómico ""temas académicos"" Cúpula y planetario debes dirigirte al piso 10 de la torre F donde encontraras las oficinas, allí podrás hacer la reserva con el equipo del observatorio astronómico."
+¿Como reservar la Cúpula del Observatorio Astronómico?,"Para reservar los espacios del observatorio astronómico ""temas académicos"" Cúpula y planetario debes dirigirte al piso 10 de la torre F donde encontraras las oficinas, allí podrás hacer la reserva con el equipo del observatorio astronómico."
+¿Dónde Encuentro la Agenda de Actividades del Observatorio Astronómico?,La Agenda de actividades la puedes encontrar en la página web de la Universidad Sergio Arboleda apartado Observatorio Astronómico o en nuestras redes sociales en Facebook Observatorio Astronómico Universidad Sergio Arboleda o en Instagram @lasergioescosmos
+¿Donde se encuentra ubicado el Observatorio Astronómico?,El Observatorio Astronómico se encuentra en la Torre F piso 10
+¿Que debo hacer para asistir a las actividades del Observatorio Astronómico?,Para asistir a las distintas actividades del Observatorio astronómico debes registrarte a cada una de nuestras actividades a través de la página web de la Universidad Sergio Arboleda apartado Observatorio Astronómico o en nuestras redes sociales en Facebook Observatorio Astronomico Universidad Sergio Arboleda o en Instagram @lasergioescosmos
 ¿Cómo puedo rastrear el Satélite Libertad 1?,"Puedes rastrear el primer satélite de Colombia a traves de los siguientes links
 colocando libertad 1 
 https://sky.rogue.space/
-https://www.n2yo.com/",
-¿Qué cursos de astronomía dicta el observatorio astronómico?,"El observatorio astronómico cuenta con dos cursos básicos de astronómia como son el curso Vega de astronomía básica y el curso ""Mi universo desde mi planeta azul"" para niños de los 9 a 13 años, para más información por favor acercarse al Observatorio Astronómico Torre F piso 10",
-¿Cuándo se puede visitar el Observatorio Astronómico?,El Observatorio astronómico de la Universidad Sergio Arboleda tiene diferentes actividades para visitar como son: tertulias aeroespaciales y jueves de observación,
-¿Cómo me Inscribo para el Jueves de Observación?,"Para ingresar a todas nuestras actividades debes registrarte a cada uno de los eventos que quieras asistir, los links de registro los encontraras en la página web de la Universidad Sergio Arboleda apartado observatorio astronómico o en nuestras redes sociales ""Observatorio Astronómico Universidad Sergio Arboleda"" en Facebook o en Instagram como la @lasergioescosmos",
-¿Qué otras Actividades se realizan en el Observatorio Astronómico?,"El Observatorio astronómico de la Universidad Sergio Arboleda tiene varias actividades de acceso gratuito, como son nuestras tertulias aeroespaciales las cuales se realizan los días martes, lo mismo que nuestros conocidos jueves de observación que como su nombre lo indican se realizan todos los jueves del año.",
-¿Como reservar el Planetario del Observatorio Astronómico?,"Para reservar los espacios del observatorio astronómico ""temas académicos"" Cúpula y planetario debes dirigirte al piso 10 de la torre F donde encontraras las oficinas, allí podrás hacer la reserva con el equipo del observatorio astronómico.",
-¿Como reservar la Cúpula del Observatorio Astronómico?,"Para reservar los espacios del observatorio astronómico ""temas académicos"" Cúpula y planetario debes dirigirte al piso 10 de la torre F donde encontraras las oficinas, allí podrás hacer la reserva con el equipo del observatorio astronómico.",
-¿Dónde Encuentro la Agenda de Actividades del Observatorio Astronómico?,La Agenda de actividades la puedes encontrar en la página web de la Universidad Sergio Arboleda apartado Observatorio Astronómico o en nuestras redes sociales en Facebook Observatorio Astronómico Universidad Sergio Arboleda o en Instagram @lasergioescosmos,
-¿Donde se encuentra ubicado el Observatorio Astronómico?,El Observatorio Astronómico se encuentra en la Torre F piso 10,
-¿Que debo hacer para asistir a las actividades del Observatorio Astronómico?,Para asistir a las distintas actividades del Observatorio astronómico debes registrarte a cada una de nuestras actividades a través de la página web de la Universidad Sergio Arboleda apartado Observatorio Astronómico o en nuestras redes sociales en Facebook Observatorio Astronomico Universidad Sergio Arboleda o en Instagram @lasergioescosmos,
+https://www.n2yo.com/"
+¿Qué cursos de astronomía dicta el observatorio astronómico?,"El observatorio astronómico cuenta con dos cursos básicos de astronómia como son el curso Vega de astronomía básica y el curso ""Mi universo desde mi planeta azul"" para niños de los 9 a 13 años, para más información por favor acercarse al Observatorio Astronómico Torre F piso 10"
+¿Cuándo se puede visitar el Observatorio Astronómico?,El Observatorio astronómico de la Universidad Sergio Arboleda tiene diferentes actividades para visitar como son: tertulias aeroespaciales y jueves de observación
+¿Cómo me Inscribo para el Jueves de Observación?,"Para ingresar a todas nuestras actividades debes registrarte a cada uno de los eventos que quieras asistir, los links de registro los encontraras en la página web de la Universidad Sergio Arboleda apartado observatorio astronómico o en nuestras redes sociales ""Observatorio Astronómico Universidad Sergio Arboleda"" en Facebook o en Instagram como la @lasergioescosmos"
+¿Qué otras Actividades se realizan en el Observatorio Astronómico?,"El Observatorio astronómico de la Universidad Sergio Arboleda tiene varias actividades de acceso gratuito, como son nuestras tertulias aeroespaciales las cuales se realizan los días martes, lo mismo que nuestros conocidos jueves de observación que como su nombre lo indican se realizan todos los jueves del año."
+¿Como reservar el Planetario del Observatorio Astronómico?,"Para reservar los espacios del observatorio astronómico ""temas académicos"" Cúpula y planetario debes dirigirte al piso 10 de la torre F donde encontraras las oficinas, allí podrás hacer la reserva con el equipo del observatorio astronómico."
+¿Como reservar la Cúpula del Observatorio Astronómico?,"Para reservar los espacios del observatorio astronómico ""temas académicos"" Cúpula y planetario debes dirigirte al piso 10 de la torre F donde encontraras las oficinas, allí podrás hacer la reserva con el equipo del observatorio astronómico."
+¿Dónde Encuentro la Agenda de Actividades del Observatorio Astronómico?,La Agenda de actividades la puedes encontrar en la página web de la Universidad Sergio Arboleda apartado Observatorio Astronómico o en nuestras redes sociales en Facebook Observatorio Astronómico Universidad Sergio Arboleda o en Instagram @lasergioescosmos
+¿Donde se encuentra ubicado el Observatorio Astronómico?,El Observatorio Astronómico se encuentra en la Torre F piso 10
+¿Que debo hacer para asistir a las actividades del Observatorio Astronómico?,Para asistir a las distintas actividades del Observatorio astronómico debes registrarte a cada una de nuestras actividades a través de la página web de la Universidad Sergio Arboleda apartado Observatorio Astronómico o en nuestras redes sociales en Facebook Observatorio Astronomico Universidad Sergio Arboleda o en Instagram @lasergioescosmos
 ¿Cómo puedo rastrear el Satélite Libertad 1?,"Puedes rastrear el primer satélite de Colombia a traves de los siguientes links
 colocando libertad 1 
 https://sky.rogue.space/
-https://www.n2yo.com/",
-¿Qué cursos de astronomía dicta el observatorio astronómico?,"El observatorio astronómico cuenta con dos cursos básicos de astronómia como son el curso Vega de astronomía básica y el curso ""Mi universo desde mi planeta azul"" para niños de los 9 a 13 años, para más información por favor acercarse al Observatorio Astronómico Torre F piso 10",
-¿Cuándo puedo aplicar a grados?,"Para iniciar tu proceso de graduación, debes tener en cuenta los requisitos académicos. El primero, debes haber finalizado todos los créditos de tu malla curricular. El segundo, debes aplicar al proceso de egresado no graduado, para legalizar tu vertical académico. ",
-¿Necesito por favor levantar un pre-requisito en una asignatura?,"Recuerda que los pre requisitos tienen un propósito en tu plan de estudios. Estos aseguran tu proceso de adquisición de competencias, y el flujo de tu proceso de aprendizaje. Esto garantiza que el momento en el que estás adquiriendo una competencia y un conocimiento nuevo sea el adecuado y propicio. Sin embargo, asegurando principio de favorabilidad de nuestros estudiantes puedes solicitar a tu Director estudiar levantar alguno. Por ejemplo, si es tu ultima asignatura por cursar, o si este pre requisito te implica un semestre más de estudios. ",
-¿Cuándo puedo ir a práctica profesional?,"La práctica profesional es un momento único y relevante en tu proceso formativo. Es la oportunidad que tienes para seguir poniendo en práctica todo tu conocimiento, competencia y habilidades en las organizaciones de nuestro país. Recuerda que el requisito para acceder a ella fue flexibilizado con la última resolución. Cuando cumplas con el 85% de los créditos de tu plan de estudios puedes aplicar a la misma. Asegúrate de no tener materias pendientes del núcleo básico de carrera, y de no tener pendientes asignaturas de ciencias básicas o core humanista y económico-administrativo.   ",
-¿Cuáles son las materias del core o núcleo humanista y económico-administrativo para Ingeniería Industrial?,"Las materias del core humanista y económico-administrativo del programa de ingeniería industrial son: Lectura y escritura académica I, Lectura y escritura académica II, Introducción a la economía, Organismos del estado colombiano, Cultura religiosa, Contabilidad general y de costos, Catedra Rodrigo Noguera Laborde. ",
-¿Cuáles son las materias de ciencias básicas para Ingeniería Industrial?,"Las materias de ciencias básicas para el programa de ingeniería industrial son: Calculo diferencial, cálculo integral, física mecánica y laboratorio, álgebra lineal, física electromagnética y laboratorio, modelación matemática para ingeniería, termodinámica. ",
-¿Cuáles son las materias del core o núcleo humanista y económico-administrativo para Ingeniería Ambiental?,"Las materias del core humanista y económico-administrativo del programa de ingeniería industrial son: Lectura y escritura académica I, Lectura y escritura académica II, Introducción a la economía, Cultura religiosa. ",
-¿Cuáles son las materias de ciencias básicas para Ingeniería Ambiental?,"Las materias de ciencias básicas para el programa de ingeniería ambiental son: Calculo diferencial, química y laboratorio, Biología y laboratorio, cálculo integral, física mecánica y laboratorio, álgebra lineal aplicada, bioquímica ambiental, modelación matemática para ingeniería, termodinámica y ondas, métodos numéricos y herramientas computacionales. ",
-¿Cuáles son las materias del core o núcleo humanista y económico-administrativo para ciencias de la computación?,"Las materias del core humanista y económico-administrativo del programa de ciencias de la computación son: Lectura y escritura académica I, Lectura y escritura académica II, Organización del estado colombiano, catedra Rodrigo Noguera Laborde, Cultura religiosa.",
-¿Cuáles son las materias del core o núcleo humanista y económico-administrativo para ingeniería electrónica?,"Las materias del core humanista y económico-administrativo del programa de ingeniería electrónica son: Lectura y escritura académica I, Lectura y escritura académica II, Organismos del estado colombiano, catedra Rodrigo Noguera Laborde, Cultura religiosa, ingeniería económica.",
-¿Cuáles son las materias de ciencias básicas para Ingeniería Electrónica?,"Las materias de ciencias básicas para el programa de ingeniería electrónica son: Calculo diferencial, cálculo integral, física mecánica y laboratorio, física electromagnética y laboratorio, álgebra lineal aplicada, cálculo vectorial y multivariable, fluidos y termodinámica, variable compleja, ondas y campos EM, calculo vectorial y multivariable. ",
-¿Cuáles son las materias de ciencias básicas para Ciencias de la Computación?,"Las materias de ciencias básicas para el programa de ciencias de la computación son: Calculo diferencial, cálculo integral, física mecánica y laboratorio, álgebra lineal aplicada, física electromagnética y laboratorio, modelación matemática para ingeniería.",
-a donde debo enviar un correo para inscribir una materia de otro programa como electiva dentro de la escuela o cual es el proceso,"enviar un correo a ecei@usa.edu.co, realizando la solicitud de la inscripcion de la asignatura con el respectivo codigo numero de cedula y programa al cual pertenece usted ",
-con quien me debo comunicar si quiero realizar las practicas empresariales,con la coordinacion de practicas egresados y medio al correo preacticas.ecei@usa.edu.co,
-si deseo tener una reunion con la direccion del programa cual es el paso a paso ,buscar el horario establecido a atencion a estudiantes por parte de la direccion del programa,
+https://www.n2yo.com/"
+¿Qué cursos de astronomía dicta el observatorio astronómico?,"El observatorio astronómico cuenta con dos cursos básicos de astronómia como son el curso Vega de astronomía básica y el curso ""Mi universo desde mi planeta azul"" para niños de los 9 a 13 años, para más información por favor acercarse al Observatorio Astronómico Torre F piso 10"
+¿Cuándo puedo aplicar a grados?,"Para iniciar tu proceso de graduación, debes tener en cuenta los requisitos académicos. El primero, debes haber finalizado todos los créditos de tu malla curricular. El segundo, debes aplicar al proceso de egresado no graduado, para legalizar tu vertical académico. "
+¿Necesito por favor levantar un pre-requisito en una asignatura?,"Recuerda que los pre requisitos tienen un propósito en tu plan de estudios. Estos aseguran tu proceso de adquisición de competencias, y el flujo de tu proceso de aprendizaje. Esto garantiza que el momento en el que estás adquiriendo una competencia y un conocimiento nuevo sea el adecuado y propicio. Sin embargo, asegurando principio de favorabilidad de nuestros estudiantes puedes solicitar a tu Director estudiar levantar alguno. Por ejemplo, si es tu ultima asignatura por cursar, o si este pre requisito te implica un semestre más de estudios. "
+¿Cuándo puedo ir a práctica profesional?,"La práctica profesional es un momento único y relevante en tu proceso formativo. Es la oportunidad que tienes para seguir poniendo en práctica todo tu conocimiento, competencia y habilidades en las organizaciones de nuestro país. Recuerda que el requisito para acceder a ella fue flexibilizado con la última resolución. Cuando cumplas con el 85% de los créditos de tu plan de estudios puedes aplicar a la misma. Asegúrate de no tener materias pendientes del núcleo básico de carrera, y de no tener pendientes asignaturas de ciencias básicas o core humanista y económico-administrativo.   "
+¿Cuáles son las materias del core o núcleo humanista y económico-administrativo para Ingeniería Industrial?,"Las materias del core humanista y económico-administrativo del programa de ingeniería industrial son: Lectura y escritura académica I, Lectura y escritura académica II, Introducción a la economía, Organismos del estado colombiano, Cultura religiosa, Contabilidad general y de costos, Catedra Rodrigo Noguera Laborde. "
+¿Cuáles son las materias de ciencias básicas para Ingeniería Industrial?,"Las materias de ciencias básicas para el programa de ingeniería industrial son: Calculo diferencial, cálculo integral, física mecánica y laboratorio, álgebra lineal, física electromagnética y laboratorio, modelación matemática para ingeniería, termodinámica. "
+¿Cuáles son las materias del core o núcleo humanista y económico-administrativo para Ingeniería Ambiental?,"Las materias del core humanista y económico-administrativo del programa de ingeniería industrial son: Lectura y escritura académica I, Lectura y escritura académica II, Introducción a la economía, Cultura religiosa. "
+¿Cuáles son las materias de ciencias básicas para Ingeniería Ambiental?,"Las materias de ciencias básicas para el programa de ingeniería ambiental son: Calculo diferencial, química y laboratorio, Biología y laboratorio, cálculo integral, física mecánica y laboratorio, álgebra lineal aplicada, bioquímica ambiental, modelación matemática para ingeniería, termodinámica y ondas, métodos numéricos y herramientas computacionales. "
+¿Cuáles son las materias del core o núcleo humanista y económico-administrativo para ciencias de la computación?,"Las materias del core humanista y económico-administrativo del programa de ciencias de la computación son: Lectura y escritura académica I, Lectura y escritura académica II, Organización del estado colombiano, catedra Rodrigo Noguera Laborde, Cultura religiosa."
+¿Cuáles son las materias del core o núcleo humanista y económico-administrativo para ingeniería electrónica?,"Las materias del core humanista y económico-administrativo del programa de ingeniería electrónica son: Lectura y escritura académica I, Lectura y escritura académica II, Organismos del estado colombiano, catedra Rodrigo Noguera Laborde, Cultura religiosa, ingeniería económica."
+¿Cuáles son las materias de ciencias básicas para Ingeniería Electrónica?,"Las materias de ciencias básicas para el programa de ingeniería electrónica son: Calculo diferencial, cálculo integral, física mecánica y laboratorio, física electromagnética y laboratorio, álgebra lineal aplicada, cálculo vectorial y multivariable, fluidos y termodinámica, variable compleja, ondas y campos EM, calculo vectorial y multivariable. "
+¿Cuáles son las materias de ciencias básicas para Ciencias de la Computación?,"Las materias de ciencias básicas para el programa de ciencias de la computación son: Calculo diferencial, cálculo integral, física mecánica y laboratorio, álgebra lineal aplicada, física electromagnética y laboratorio, modelación matemática para ingeniería."
+a donde debo enviar un correo para inscribir una materia de otro programa como electiva dentro de la escuela o cual es el proceso,"enviar un correo a ecei@usa.edu.co, realizando la solicitud de la inscripcion de la asignatura con el respectivo codigo numero de cedula y programa al cual pertenece usted "
+con quien me debo comunicar si quiero realizar las practicas empresariales,con la coordinacion de practicas egresados y medio al correo preacticas.ecei@usa.edu.co
+si deseo tener una reunion con la direccion del programa cual es el paso a paso ,buscar el horario establecido a atencion a estudiantes por parte de la direccion del programa
 cual es el proceso que se debe hacer para acceder a hacer un segundo programa,"1. ir a admisiones y registro
 2. revisar con ellos cual es el segundo programa que quiere cursar
 3. admisiones realiza la cita para la entrevistar
 4.se pide contenido programaticos y certificado de notas para la respectiva homologacion
 5. se envia la propuesta de homologacion
-6. generacion de desprendible de pago",
+6. generacion de desprendible de pago"
 que debo hacer si tengo un bloqueo por documentos,"llamar a la extencion 2158, 2435
-enviar un correo a ecei@usa.edu.co solicitando la informacion sobre el bloqueo",
+enviar un correo a ecei@usa.edu.co solicitando la informacion sobre el bloqueo"
 cuales son los requisitos para poder hacer practicas,"Industrial: es obligatoria la practica y deben tener el 85% de los creditos aprovados, no deben estar debiendo materias de ciencias basicas o aplicadas
 CCIA: la practica es una de las opciones de grado, para tener hacer practica deben tener el 88% de los creditos aprovados, no deben estar debiendo materias de ciencias basicas o aplicadas
 Electronica: la practica es una de las opciones de grado, para tener hacer practica deben tener el 85% de los creditos aprovados, no deben estar debiendo materias de ciencias basicas o aplicadas
 ambiental: si los estudiantes desean ver las practicas lo pueden hacer pero no es opcion de grado
-matematicas: si los estudiantes desean ver las practicas lo pueden hacer pero no es opcion de grado, adicionalmente deben realizar una sustentacion frente al coloquio de Matemáticas",
-cual es el correo de la escuela,ecei@usa.edu.co,
+matematicas: si los estudiantes desean ver las practicas lo pueden hacer pero no es opcion de grado, adicionalmente deben realizar una sustentacion frente al coloquio de Matemáticas"
+cual es el correo de la escuela,ecei@usa.edu.co
 cuales son las lineas de optativas de ciencias,"La de HCP
 Ciencia de datos
 Sistemas Inteligentes
-Seguridad de la informacion",
+Seguridad de la informacion"
 cuales son las lineas de optativas de electronica,"telecomunicaciones
 Energia
 Automatizacion y control
 IoT
 maquinas inteligentes
-bioingenieria",
-cuales son los eventos que hace la escuela por semestre,"DATAFEST, HACKATON, MARATON de programación",
-¿Cómo solicitar el levantamiento de un prerrequisito?  ,"Debes enviar una carta radicada a la dirección del programa o a la coordinación académica de la Escuela, mencionando tus datos personales (nombre completo y número de cédula), el código de la asignatura a levantar el prerrequisito y el motivo por el cual lo solicitas. La ECEI tendrá tres días hábiles para evaluar el caso e indicarte si se levanta o no el prerrequisito solicitado.  ",
-¿Cuál es el prerrequisito para ver la primera Optativa y/o Electiva profesional del programa de Ingeniería Ambiental?  ,   Para iniciar a ver las Optativas y las Electivas profesionales debes haber cursado y aprobado como mínimo el 50% de los créditos del programa.   ,
-¿Cómo debo realizar la inscripción de la práctica profesional en el programa de Ingeniería Ambiental?  ,"   Recuerda que, si eliges hacer la práctica profesional, debes inscribir los módulos de “Electiva de libre elección”, “Electiva de emprendimiento” y “Electiva profesional 3”, las cuales se homologarán por el proceso de la práctica profesional.   ",
-¿Hay prerrequisitos asociados a la inscripción de la práctica profesional en el programa de Ingeniería Ambiental?  ,"  Sí, debes haber cursado y aprobado mínimo el 85% de los créditos del programa a la fecha de la inscripción de la práctica.  ",
+bioingenieria"
+cuales son los eventos que hace la escuela por semestre,"DATAFEST, HACKATON, MARATON de programación"
+¿Cómo solicitar el levantamiento de un prerrequisito?  ,"Debes enviar una carta radicada a la dirección del programa o a la coordinación académica de la Escuela, mencionando tus datos personales (nombre completo y número de cédula), el código de la asignatura a levantar el prerrequisito y el motivo por el cual lo solicitas. La ECEI tendrá tres días hábiles para evaluar el caso e indicarte si se levanta o no el prerrequisito solicitado.  "
+¿Cuál es el prerrequisito para ver la primera Optativa y/o Electiva profesional del programa de Ingeniería Ambiental?  ,   Para iniciar a ver las Optativas y las Electivas profesionales debes haber cursado y aprobado como mínimo el 50% de los créditos del programa.   
+¿Cómo debo realizar la inscripción de la práctica profesional en el programa de Ingeniería Ambiental?  ,"   Recuerda que, si eliges hacer la práctica profesional, debes inscribir los módulos de “Electiva de libre elección”, “Electiva de emprendimiento” y “Electiva profesional 3”, las cuales se homologarán por el proceso de la práctica profesional.   "
+¿Hay prerrequisitos asociados a la inscripción de la práctica profesional en el programa de Ingeniería Ambiental?  ,"  Sí, debes haber cursado y aprobado mínimo el 85% de los créditos del programa a la fecha de la inscripción de la práctica.  "
 ¿Qué opciones de grado están habilitadas para el programa de Ingeniería Ambiental?  ,"  Las opciones de grado habilitadas para Ingeniería Ambiental, son:
 Trabajo de grado  
 Semillero de Investigación
@@ -155,104 +155,526 @@ Titulación en el Exterior
 Plan de negocios
 Excelencia en concursos
 Programa internacional
-Ingeniería Humanitaria",
+Ingeniería Humanitaria"
 ¿En qué consiste la opción de grado de Trabajo de grado para el programa de Ingeniería Ambiental?   ,"  Bajo esta modalidad, podrás desarrollar un trabajo teórico o experimental en el que aplicarás los conocimientos adquiridos durante tu programa.   
-Reglamento General: Capítulo II de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  ",
+Reglamento General: Capítulo II de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  "
 ¿En qué consiste la opción de grado de Semillero de Investigación para el programa de Ingeniería Ambiental?   ,"  Bajo esta modalidad, podrás obtener el título profesional bajo un enfoque de aprendizaje experimental e investigativo.   
 Semestralmente, los docentes del programa según la disponibilidad habilitarán cupos para ingresar al semillero de investigación, donde se les comunicará a los estudiantes sobre las principales experticias a trabajar.   
 El docente está en la facultad de seleccionar a los estudiantes, según los requisitos mínimos exigidos y los cupos habilitados.    
-Reglamento General: Capítulo VII de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)   ",
+Reglamento General: Capítulo VII de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)   "
 ¿En qué consiste la opción de grado de Estudio Coterminal para el programa de Ingeniería Ambiental?  ,"  Bajo esta modalidad, podrás profundizar en competencias académicas de programas de postgrados. Deberás inscribir 8 créditos de algún programa de postgrado de la ECEI, cursarlos y aprobarlos con la nota mínima determinada para dicho programa.  
 Para tomar esta opción, puedes solicitar orientación con la dirección de área.    
-Reglamento General: Capítulo IV de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  ",
+Reglamento General: Capítulo IV de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  "
 ¿En qué consiste la opción de grado de Titulación en el Exterior para el programa de Ingeniería Ambiental?  ,"  Bajo esta modalidad, podrás obtener el título profesional con alguna universidad extranjera con la cual el programa tenga convenio suscrito, cursando el último año de la carrera en dicha institución.   
 Para tomar esta opción, puedes solicitar orientación con la Oficina de Relaciones Internacionales y la dirección de programa.    
-Reglamento General: Capítulo V de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  ",
+Reglamento General: Capítulo V de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  "
 ¿En qué consiste la opción de grado de Plan de negocios para el programa de Ingeniería Ambiental?  ,"  Bajo esta modalidad, podrás obtener el título profesional elaborando un plan de negocios.   
 Para tomar esta opción, puedes solicitar orientación con el Centro de Innovación, Emprendimiento y Empresa.    
-Reglamento General: Capítulo VI de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  ",
+Reglamento General: Capítulo VI de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  "
 ¿En qué consiste la opción de grado de Excelencia en concursos para el programa de Ingeniería Ambiental?  ,"  Bajo esta modalidad, podrás obtener el título profesional por haber tenido un muy alto desempeño en concursos reconocidos por la Universidad.   
-Reglamento General: Capítulo VIII de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  ",
+Reglamento General: Capítulo VIII de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  "
 ¿En qué consiste la opción de grado de Programa internacional para el programa de Ingeniería Ambiental?  ,"  Bajo esta modalidad, deberás inscribirte y participar en un programa de la ECEI en el cual algunos de los módulos se desarrollen en sedes internacionales de la Universidad o universidades con las que la Sergio tenga convenio. 
 Para información de programas internacionales ofertados, has clic en el siguiente enlace (ENLACE). 
-Reglamento General: Capítulo III de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  ",
+Reglamento General: Capítulo III de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  "
 ¿En qué consiste la opción de grado de Ingeniería Humanitaria para el programa de Ingeniería Ambiental?  ,"  Bajo esta modalidad, podrás obtener tu título profesional desarrollando competencias a través del liderazgo y solución de problemáticas de comunidades vulnerables o con potencial desarrollo, generando un proceso de trabajo en equipo y co-creación.  
 Para información de esta opción de grado, puedes comunicarte a través del correo ecei@usa.edu.co   
-Reglamento General: Capítulo III de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  ",
+Reglamento General: Capítulo III de Resolución de Decanatura No 1121 de 2017 (Enlace: https://www.usergioarboleda.edu.co/wp-content/uploads/2015/04/Resolucio%CC%81n-1221-Reglamento-Opciones-de-grado-25-09-2017.pdf?c69294&fc6c97)  "
 ¿Cuál es el proceso para realizar intercambio con alguna universidad en el exterior?  ,"  Inicialmente, deberás validar los convenios vigentes que tiene el programa de Ingeniería Ambiental, esto puedes hacerlo en conjunto con la Oficina de Relaciones Internacionales (ORI) y la dirección de Área, o verificarlo en el siguiente enlace: https://www.usergioarboleda.edu.co/carreras-universitarias-ingenieria/ingenieria-ambiental. Es fundamental recordar que cada convenio tiene requisitos específicos los cuales se deberán validar.   
 Tras verificarse este paso, se determinarán los módulos y la coherencia entre los contenidos programáticos y el número de créditos para establecer las asignaturas que el estudiante tomará en la Universidad extranjera, la cual también deberá aprobar el intercambio.  
-Una vez aprobado el intercambio por las diferentes instancias, deberás seguir los pasos de inscripción que se determinen a través de la ORI.   ",
-¿Cuál es el horario de atención de la dirección del programa de Ingeniería Ambiental?  ,  El horario de atención de la dirección del programa de Ingeniería Ambiental es los martes de 8:30 a.m. a 9:30 a.m. y los jueves de 2:00 p.m. a 3:00 p.m.  ,
-¿Cuál es el prerrequisito de Cálculo diferencial en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cálculo diferencial, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Química y laboratorio en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Química y laboratorio, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Biología y laboratorio en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Biología y laboratorio, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Cálculo integral en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cálculo integral, es (son): Cálculo diferencial. ",
-¿Cuál es el prerrequisito de Física mecánica y laboratorio en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Física mecánica y laboratorio, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Bioquímica Ambiental en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Bioquímica Ambiental, es (son): Biología y laboratorio; Química y laboratorio. ",
-¿Cuál es el prerrequisito de Algebra lineal aplicada en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Algebra lineal aplicada, es (son): Calculo diferencial. ",
-¿Cuál es el prerrequisito de Modelación matemática para ingeniería en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Modelación matemática para ingeniería, es (son): Cálculo integral. ",
-¿Cuál es el prerrequisito de Termodinámica y ondas en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Termodinámica y ondas, es (son): Física mecánica y laboratorio. ",
-¿Cuál es el prerrequisito de Métodos numéricos y herramientas computacionales en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Métodos numéricos y herramientas computacionales, es (son): Modelación matemática para ingeniería. ",
-¿Cuál es el prerrequisito de Pensamiento Computacional en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Pensamiento Computacional, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Introducción a la ingeniería en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Introducción a la ingeniería, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Probabilidad y estadística en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Probabilidad y estadística, es (son): No tiene prerrequisito. ",
-"¿Cuál es el prerrequisito de Ecología, ecosistemas y biodiversidad en el programa de Ingeniería Ambiental? ","El (los) prerrequisito(s) del módulo Ecología, ecosistemas y biodiversidad, es (son): Biología y laboratorio. ",
-"¿Cuál es el prerrequisito de Microbiología, biotecnología y laboratorio en el programa de Ingeniería Ambiental? ","El (los) prerrequisito(s) del módulo Microbiología, biotecnología y laboratorio, es (son): Bioquímica Ambiental. ",
-¿Cuál es el prerrequisito de Química y calidad ambiental y laboratorio en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Química y calidad ambiental y laboratorio, es (son): Bioquímica Ambiental. ",
-¿Cuál es el prerrequisito de Balance de materia y energía en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Balance de materia y energía, es (son): Termodinámica y ondas. ",
-¿Cuál es el prerrequisito de Ciencias de la tierra y el suelo en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Ciencias de la tierra y el suelo, es (son): Microbiología, biotecnología y laboratorio. ",
- ¿Cuál es el prerrequisito de Ciencias de la atmósfera en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Ciencias de la atmósfera, es (son): Métodos numéricos y herramientas computacionales. ",
- ¿Cuál es el prerrequisito de Cartografía y Aplicaciones geoespaciales en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cartografía y Aplicaciones geoespaciales, es (son): No tiene prerrequisito. ",
- ¿Cuál es el prerrequisito de Fluidos e hidráulica en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Fluidos e hidráulica, es (son): Física mecánica y laboratorio. ",
-¿Cuál es el prerrequisito de Resolución de conflictos socioambientales en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Resolución de conflictos socioambientales, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Ordenamiento territorial en Colombia en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Ordenamiento territorial en Colombia, es (son): Cartografía y Aplicaciones geoespaciales. ",
-¿Cuál es el prerrequisito de Análisis ambiental de procesos unitarios en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Análisis ambiental de procesos unitarios, es (son): Balance de materia y energía. ",
-¿Cuál es el prerrequisito de Hidrología y gobernanza del agua en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Hidrología y gobernanza del agua, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Manejo y remediación de suelos en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Manejo y remediación de suelos, es (son): Ciencias de la tierra y el suelo. ",
-¿Cuál es el prerrequisito de Climate change: The science and global impact en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Climate change: The science and global impact, es (son): No tiene prerrequisito. ",
-" ¿Cuál es el prerrequisito de Gestión integral de residuos sólidos, tóxicos y peligrosos en el programa de Ingeniería Ambiental? ","El (los) prerrequisito(s) del módulo Gestión integral de residuos sólidos, tóxicos y peligrosos, es (son): Análisis ambiental de procesos unitarios. ",
-¿Cuál es el prerrequisito de Water treatment en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Water treatment, es (son): Fluidos e hidráulica, Análisis ambiental de procesos unitarios y Requisito de inglés. ",
-¿Cuál es el prerrequisito de Control y simulación atmosférica en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Control y simulación atmosférica, es (son): Ciencias de la atmósfera. ",
-¿Cuál es el prerrequisito de Hydrodynamic modeling en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Hydrodynamic modeling, es (son): Métodos numéricos y herramientas computacionales, Fluidos e hidráulica y Requisitos de Inglés. ",
-"¿Cuál es el prerrequisito de Evaluación, planes de manejo y monitoreo ambiental en el programa de Ingeniería Ambiental? ","El (los) prerrequisito(s) del módulo Evaluación, planes de manejo y monitoreo ambiental, es (son): Cartografía y Aplicaciones geoespaciales. ",
-¿Cuál es el prerrequisito de Sistemas de gestión y política ambiental en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Sistemas de gestión y política ambiental, es (son): Evaluación, planes de manejo y monitoreo ambiental. ",
-¿Cuál es el prerrequisito de Optativa A1 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa A1, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Optativa A2 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa A2, es (son): Optativa A1. ",
-¿Cuál es el prerrequisito de Optativa A3 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa A3, es (son): Optativa A2. ",
-¿Cuál es el prerrequisito de Optativa B1 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa B1, es (son): No tiene prerrequisito. ",
- ¿Cuál es el prerrequisito de Optativa B2 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa B2, es (son): Optativa B1. ",
-¿Cuál es el prerrequisito de Optativa B3 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa B3, es (son): Optativa B2. ",
-¿Cuál es el prerrequisito de Electiva profesional 1 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva profesional 1, es (son): 50% de créditos aprobados. ",
-¿Cuál es el prerrequisito de Electiva profesional 2 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva profesional 2, es (son): 50% de créditos aprobados. ",
-¿Cuál es el prerrequisito de Electiva profesional 3 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva profesional 3, es (son): 50% de créditos aprobados. ",
-¿Cuál es el prerrequisito de Opción de grado en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Opción de grado, es (son): 70% de créditos aprobados. ",
-¿Cuál es el prerrequisito de Cátedra Rodrigo Noguera Laborde en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cátedra Rodrigo Noguera Laborde, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Lectura y escritura académica I en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Lectura y escritura académica I, es (son): No tiene prerrequisito. ",
- ¿Cuál es el prerrequisito de Lectura y escritura académica II en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Lectura y escritura académica II, es (son): Lectura y escritura académica I. ",
-¿Cuál es el prerrequisito de Introducción a la economía en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Introducción a la economía, es (son):  No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Cultura e historia de la religión en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cultura e historia de la religión, es (son):  No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Electiva de humanidades en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva de humanidades, es (son):  No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Seminario I+D+i en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Seminario I+D+i, es (son):  No tiene prerrequisito. ",
- ¿Cuál es el prerrequisito de Formulación y evaluación de proyectos socioambientales en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Formulación y evaluación de proyectos socioambientales, es (son): Introducción a la economía. ",
- ¿Cuál es el prerrequisito de Ética y responsabilidad social en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Ética y responsabilidad social, es (son): No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Electiva de libre elección en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva de libre elección, es (son):  No tiene prerrequisito. ",
-¿Cuál es el prerrequisito de Electiva de emprendimiento en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva de emprendimiento, es (son):  No tiene prerrequisito. ",
-¿Cuál es el contacto de la dirección de área de Ingeniería y Medio Ambiente? ,  La directora del programa es la ingeniera María Clara Sánchez. El correo institucional es mariacla.sanchez@usa.edu.co ,
+Una vez aprobado el intercambio por las diferentes instancias, deberás seguir los pasos de inscripción que se determinen a través de la ORI.   "
+¿Cuál es el horario de atención de la dirección del programa de Ingeniería Ambiental?  ,  El horario de atención de la dirección del programa de Ingeniería Ambiental es los martes de 8:30 a.m. a 9:30 a.m. y los jueves de 2:00 p.m. a 3:00 p.m.  
+¿Cuál es el prerrequisito de Cálculo diferencial en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cálculo diferencial, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Química y laboratorio en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Química y laboratorio, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Biología y laboratorio en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Biología y laboratorio, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Cálculo integral en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cálculo integral, es (son): Cálculo diferencial. "
+¿Cuál es el prerrequisito de Física mecánica y laboratorio en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Física mecánica y laboratorio, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Bioquímica Ambiental en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Bioquímica Ambiental, es (son): Biología y laboratorio; Química y laboratorio. "
+¿Cuál es el prerrequisito de Algebra lineal aplicada en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Algebra lineal aplicada, es (son): Calculo diferencial. "
+¿Cuál es el prerrequisito de Modelación matemática para ingeniería en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Modelación matemática para ingeniería, es (son): Cálculo integral. "
+¿Cuál es el prerrequisito de Termodinámica y ondas en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Termodinámica y ondas, es (son): Física mecánica y laboratorio. "
+¿Cuál es el prerrequisito de Métodos numéricos y herramientas computacionales en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Métodos numéricos y herramientas computacionales, es (son): Modelación matemática para ingeniería. "
+¿Cuál es el prerrequisito de Pensamiento Computacional en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Pensamiento Computacional, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Introducción a la ingeniería en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Introducción a la ingeniería, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Probabilidad y estadística en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Probabilidad y estadística, es (son): No tiene prerrequisito. "
+"¿Cuál es el prerrequisito de Ecología, ecosistemas y biodiversidad en el programa de Ingeniería Ambiental? ","El (los) prerrequisito(s) del módulo Ecología, ecosistemas y biodiversidad, es (son): Biología y laboratorio. "
+"¿Cuál es el prerrequisito de Microbiología, biotecnología y laboratorio en el programa de Ingeniería Ambiental? ","El (los) prerrequisito(s) del módulo Microbiología, biotecnología y laboratorio, es (son): Bioquímica Ambiental. "
+¿Cuál es el prerrequisito de Química y calidad ambiental y laboratorio en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Química y calidad ambiental y laboratorio, es (son): Bioquímica Ambiental. "
+¿Cuál es el prerrequisito de Balance de materia y energía en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Balance de materia y energía, es (son): Termodinámica y ondas. "
+¿Cuál es el prerrequisito de Ciencias de la tierra y el suelo en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Ciencias de la tierra y el suelo, es (son): Microbiología, biotecnología y laboratorio. "
+ ¿Cuál es el prerrequisito de Ciencias de la atmósfera en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Ciencias de la atmósfera, es (son): Métodos numéricos y herramientas computacionales. "
+ ¿Cuál es el prerrequisito de Cartografía y Aplicaciones geoespaciales en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cartografía y Aplicaciones geoespaciales, es (son): No tiene prerrequisito. "
+ ¿Cuál es el prerrequisito de Fluidos e hidráulica en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Fluidos e hidráulica, es (son): Física mecánica y laboratorio. "
+¿Cuál es el prerrequisito de Resolución de conflictos socioambientales en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Resolución de conflictos socioambientales, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Ordenamiento territorial en Colombia en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Ordenamiento territorial en Colombia, es (son): Cartografía y Aplicaciones geoespaciales. "
+¿Cuál es el prerrequisito de Análisis ambiental de procesos unitarios en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Análisis ambiental de procesos unitarios, es (son): Balance de materia y energía. "
+¿Cuál es el prerrequisito de Hidrología y gobernanza del agua en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Hidrología y gobernanza del agua, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Manejo y remediación de suelos en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Manejo y remediación de suelos, es (son): Ciencias de la tierra y el suelo. "
+¿Cuál es el prerrequisito de Climate change: The science and global impact en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Climate change: The science and global impact, es (son): No tiene prerrequisito. "
+" ¿Cuál es el prerrequisito de Gestión integral de residuos sólidos, tóxicos y peligrosos en el programa de Ingeniería Ambiental? ","El (los) prerrequisito(s) del módulo Gestión integral de residuos sólidos, tóxicos y peligrosos, es (son): Análisis ambiental de procesos unitarios. "
+¿Cuál es el prerrequisito de Water treatment en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Water treatment, es (son): Fluidos e hidráulica, Análisis ambiental de procesos unitarios y Requisito de inglés. "
+¿Cuál es el prerrequisito de Control y simulación atmosférica en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Control y simulación atmosférica, es (son): Ciencias de la atmósfera. "
+¿Cuál es el prerrequisito de Hydrodynamic modeling en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Hydrodynamic modeling, es (son): Métodos numéricos y herramientas computacionales, Fluidos e hidráulica y Requisitos de Inglés. "
+"¿Cuál es el prerrequisito de Evaluación, planes de manejo y monitoreo ambiental en el programa de Ingeniería Ambiental? ","El (los) prerrequisito(s) del módulo Evaluación, planes de manejo y monitoreo ambiental, es (son): Cartografía y Aplicaciones geoespaciales. "
+¿Cuál es el prerrequisito de Sistemas de gestión y política ambiental en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Sistemas de gestión y política ambiental, es (son): Evaluación, planes de manejo y monitoreo ambiental. "
+¿Cuál es el prerrequisito de Optativa A1 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa A1, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Optativa A2 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa A2, es (son): Optativa A1. "
+¿Cuál es el prerrequisito de Optativa A3 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa A3, es (son): Optativa A2. "
+¿Cuál es el prerrequisito de Optativa B1 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa B1, es (son): No tiene prerrequisito. "
+ ¿Cuál es el prerrequisito de Optativa B2 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa B2, es (son): Optativa B1. "
+¿Cuál es el prerrequisito de Optativa B3 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Optativa B3, es (son): Optativa B2. "
+¿Cuál es el prerrequisito de Electiva profesional 1 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva profesional 1, es (son): 50% de créditos aprobados. "
+¿Cuál es el prerrequisito de Electiva profesional 2 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva profesional 2, es (son): 50% de créditos aprobados. "
+¿Cuál es el prerrequisito de Electiva profesional 3 en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva profesional 3, es (son): 50% de créditos aprobados. "
+¿Cuál es el prerrequisito de Opción de grado en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Opción de grado, es (son): 70% de créditos aprobados. "
+¿Cuál es el prerrequisito de Cátedra Rodrigo Noguera Laborde en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cátedra Rodrigo Noguera Laborde, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Lectura y escritura académica I en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Lectura y escritura académica I, es (son): No tiene prerrequisito. "
+ ¿Cuál es el prerrequisito de Lectura y escritura académica II en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Lectura y escritura académica II, es (son): Lectura y escritura académica I. "
+¿Cuál es el prerrequisito de Introducción a la economía en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Introducción a la economía, es (son):  No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Cultura e historia de la religión en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Cultura e historia de la religión, es (son):  No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Electiva de humanidades en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva de humanidades, es (son):  No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Seminario I+D+i en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Seminario I+D+i, es (son):  No tiene prerrequisito. "
+ ¿Cuál es el prerrequisito de Formulación y evaluación de proyectos socioambientales en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Formulación y evaluación de proyectos socioambientales, es (son): Introducción a la economía. "
+ ¿Cuál es el prerrequisito de Ética y responsabilidad social en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Ética y responsabilidad social, es (son): No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Electiva de libre elección en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva de libre elección, es (son):  No tiene prerrequisito. "
+¿Cuál es el prerrequisito de Electiva de emprendimiento en el programa de Ingeniería Ambiental? ,"El (los) prerrequisito(s) del módulo Electiva de emprendimiento, es (son):  No tiene prerrequisito. "
+¿Cuál es el contacto de la dirección de área de Ingeniería y Medio Ambiente? ,  La directora del programa es la ingeniera María Clara Sánchez. El correo institucional es mariacla.sanchez@usa.edu.co 
 ¿Cuál es el contacto de los docentes del programa de Ingeniería Ambiental? ,"  Los docentes del programa y sus correos electrónicos son: 
 Ingeniero Pedro Antonio Cárdenas B. (pedro.cardenas@usa.edu.co) 
 Ingeniero Victor Augusto Lizcano S. (victor.lizcano@usa.edu.co) 
-Ingeniero Diego Mauricio Rivera M. (diego.rivera@usa.edu.co) ",
+Ingeniero Diego Mauricio Rivera M. (diego.rivera@usa.edu.co) "
  ¿Cómo solicitar un doble calificador en caso de requerirlo?  ,"  En caso de estar en desacuerdo con una calificación, el estudiante tendrá 3 días hábiles posteriores a la publicación de la nota para presentar una carta a la dirección de área explicando los motivos de la solicitud.  
-Si se aprueba la solicitud, el docente asignado para la segunda calificación tendrá tres días hábiles para presentar su concepto, el cual podrá modificar la nota publicada. ",
+Si se aprueba la solicitud, el docente asignado para la segunda calificación tendrá tres días hábiles para presentar su concepto, el cual podrá modificar la nota publicada. "
  ¿Cómo solicitar un examen de suficiencia o validación? ,"  Para solicitar un examen de suficiencia o validación se revisará con la dirección de área o la coordinación académica tu promedio académico y se verificará que sea una de las dos últimas materias que te falta por cursar.  
-Una vez verificado, el director de área y el decano aprobarán el respectivo examen y deberás cancelar los derechos correspondientes. Posteriormente, tendrás entre uno y cuatro meses para presentar el examen. Para este examen podrás contar con un tutor o docente asignado que te apoyará en el proceso.   ",
-1,¿Qué sucede si se me pasa la fecha de inscripción de materias?,"Después de que se pasa su fecha de inscripción, al otro día el sistema le permitirá realizar la inscripción de materias entre las 7:00 pm y las 12:00 am."
-2,¿Cuál es el proceso para incluir créditos adicionales?,"Debe inscribir todas las materias correspondientes a su semestre, luego inscribir los créditos adicionales, después reliquidar y en ese momento el sistema genera el recibo para pagar los adicionales."
-3,¿Puedo ver materias de un crédito?,"Depende de la oferta del programa, debe revisar previamente la malla de su programa."
-4,¿Me homologan materias de matemáticas si voy a hacer un doble programa?,"Si, debe solicitarse previamente autorización ante la dirección del programa para que se evalué la pertinencia de la solicitud."
-5,¿Puedo tomar electivas de otro programa?,"Si, después de verificar la oferta de electivas de otro programa, la dirección del programa debe autorizarlo por el sistema sap."
-6,¿Puedo ver materias de manera virtual?,"Según la oferta del programa para cada semestre, usualmente en matemáticas esto no sucede."
-7,¿Cómo se que electivas maneja el programa?,"Antes de iniciar las matrículas, la dirección y coordinación académica enviarán la oferta del programa mediante correos electrónicos a todos los estudiantes. Si el estudiante no recibió dicha información, debe acercarse a la escuela para realizar la respectiva consulta."
-8,¿Cómo puedo pedir tutorías?,"A través del aplicativo de tutorías disponible en la página de la Universidad se debe realizar la inscripción a tutoría, también es posible realizar la inscripción en bienestar universitario."
-"9.	¿Si no pude venir el día del parcial, que debo hacer?","Solicitar a la escuela un examen supletorio o diferido. La dirección deberá aprobar la solicitud y decidir el tipo de examen a realizar, de acuerdo con la excusa presentada.",
-10,¿Cómo tramito las excusas o incapacidades?,"En el servicio médico se deben tramitar las incapacidades médicas. Cuando las excusas no son médicas, estas se deben tramitar ante la dirección del programa."
+Una vez verificado, el director de área y el decano aprobarán el respectivo examen y deberás cancelar los derechos correspondientes. Posteriormente, tendrás entre uno y cuatro meses para presentar el examen. Para este examen podrás contar con un tutor o docente asignado que te apoyará en el proceso.   "
+¿Qué sucede si se me pasa la fecha de inscripción de materias?,"Después de que se pasa su fecha de inscripción, al otro día el sistema le permitirá realizar la inscripción de materias entre las 7:00 pm y las 12:00 am."
+¿Cuál es el proceso para incluir créditos adicionales?,"Debe inscribir todas las materias correspondientes a su semestre, luego inscribir los créditos adicionales, después reliquidar y en ese momento el sistema genera el recibo para pagar los adicionales."
+¿Puedo ver materias de un crédito?,"Depende de la oferta del programa, debe revisar previamente la malla de su programa."
+¿Me homologan materias de matemáticas si voy a hacer un doble programa?,"Si, debe solicitarse previamente autorización ante la dirección del programa para que se evalué la pertinencia de la solicitud."
+¿Puedo tomar electivas de otro programa?,"Si, después de verificar la oferta de electivas de otro programa, la dirección del programa debe autorizarlo por el sistema sap."
+¿Puedo ver materias de manera virtual?,"Según la oferta del programa para cada semestre, usualmente en matemáticas esto no sucede."
+¿Cómo se que electivas maneja el programa?,"Antes de iniciar las matrículas, la dirección y coordinación académica enviarán la oferta del programa mediante correos electrónicos a todos los estudiantes. Si el estudiante no recibió dicha información, debe acercarse a la escuela para realizar la respectiva consulta."
+¿Cómo puedo pedir tutorías?,"A través del aplicativo de tutorías disponible en la página de la Universidad se debe realizar la inscripción a tutoría, también es posible realizar la inscripción en bienestar universitario."
+"¿Si no pude venir el día del parcial, que debo hacer?","Solicitar a la escuela un examen supletorio o diferido. La dirección deberá aprobar la solicitud y decidir el tipo de examen a realizar, de acuerdo con la excusa presentada."
+¿Cómo tramito las excusas o incapacidades?,"En el servicio médico se deben tramitar las incapacidades médicas. Cuando las excusas no son médicas, estas se deben tramitar ante la dirección del programa."
+¿Qué es un supletorio?,Es un examen extemporaneo que se realiza cuando se presenta alguna situación fortuita
+¿ A dónde debo dirigirme si necesito un supletorio?,Deben enviar la solicitud al correo ecei@usa.edu.co o con las asitentes del programa
+¿Qué precio tiene un supletorio?,$206.940 para el año 2025
+¿Dónde puedo reclamar la plantilla para las horas de servicio?,En Bienestar Universitario 
+¿Cuántas horas de servicio debo realizar?,"Usualmente son 32 horas, pero puede variar segun Beca optenida. Por lo cual debes validar la información con Bienestar Universitario."
+¿Cuál es el plazo tengo que para entregar la plantilla de horas sociales?,Se entrega al terminar las clases y culminar el periodo académico 
+¿Dónde puedo hacer horas de servicio?,En cualquier dependencia de la Universidad
+¿ Qué sucede si realizo más horas de servicio de las requeridas?,Se pueden acumular para el próximo semestre
+¿Qué pasa si no alcanzo a completar las horas de servicio?,Tiene riesgo de que se suspenda la beca otorgada
+¿Qué pasa si pierdo una materia?,"Debes volver a matricular la asignatura con el fin de obtener una nota superior a 3.0. Esto implica que deberás pagar créditos adicionales en tu próximo semestre académico o, en su lugar, dejar de cursar una de las asignaturas programadas para ese semestre.
+Ten en cuenta que, si la asignatura perdida es prerrequisito de otra, no podrás cursar la asignatura correspondiente hasta que la apruebes."
+¿Tiene algún costo adicional reprobar una materia?,"Sí, el costo es correspondiente al número de créditos de la asignatura reprobada. "
+ ¿Si pierdo una materia pierdo la beca?,"No, siempre y cuando mantengas el promedio exigido en tu beca. "
+¿Dónde puedo entregar la plantilla de horas de servicio?,En Bienestar Universitario 
+¿Cómo puedo saber si se validaron mis horas de servicio?,El sistema deja matricular asignaturas y la beca sigue su curso normal 
+¿Dónde inscribo materias para el próximo semestre?,"Deberás estar pendiente de tu cita de matrícula, la cual será publicada en tu portal SAP una vez la Escuela te comunique activación de las mismas. En dicha citación se indicará el día y la hora en que deberás ingresar a SAP para matricular las asignaturas correspondientes a tu siguiente semestre, según tu plan de estudios.
+Si no logras hacerlo en el horario asignado, podrás realizar la matrícula después de las 7:00 p.m., una vez hayan finalizado todas las citaciones."
+¿Qué hago si tengo dos materias en el mismo horario?,"El sistema no lo permite; sin embargo, en caso de que llegue a ocurrir, por favor notifica de inmediato a la Dirección para proceder con la inscripción de una nueva asignatura o la corrección del error, según corresponda.
+Es importante que informes cualquier situación, ya que omitirlo podría ocasionar la pérdida de alguna de las dos asignaturas."
+¿Qué debo hacer si tengo dos parciales al mismo tiempo?,"Las fechas de parciales son definidas en acuerdo con el docente, a menos que se trate de una asignatura departamental. Por ello, es importante que lleves un control de tus evaluaciones. En caso de no poder evitar el cruce de horarios, deberás solicitar examen diferido para una de las asignaturas involucradas."
+¿Cómo puedo cambiarme de profesor?,"Se debe realizar la solicitud de cambio de asignatura con otro docente antes de la segunda semana de clases, el cambio se realizará solo si hay disponibilidad de cupos.  "
+¿Hasta cuándo puedo cancelar una materia?,Hasta la segunda semana de clases o según indicación de calendario académico.
+¿Dónde se realiza el trámite para cancelar una materia?,Deben enviar la solicitud al correo ecei@usa.edu.co o con las asitentes del programa
+¿Por qué motivos puedo cancelar una materia?,"Si realizas la cancelación dentro de las fechas establecidas no importará el motivo de cancelación, pero si por el contrario se realiza la solicitud luego de las mismas se debera esclar la solicitud al comité académico, quien solo tendra encuenta la solciitud si corresponde a un caso de fuerza mayor. "
+¿Tiene algún costo o penalización al cancelar una materia?,"Sí, el costo es correspondiente al número de créditos de la asignatura retirada. "
+¿Qué es una tutoría?,"Es una asesoria personalizada bridada por un profesor para solucionar dudas, es importante tener en cuenta que no es una clase imparida. "
+¿Dónde puedo solicitar una tutoría?,"A través de la página web de la Universidad, ingresa a la sección Comunidad, luego selecciona Estudiantes y haz clic en Tutorías."
+¿Cuántas tutorías puedo pedir al semestre?,"Las que necesite el estudiante, no tiene un número limite determinado"
+¿Con cuanto tiempo de anticipación debo solicitar una tutoría?,24 horas
+¿Qué es una monitoría?,Es una asesoria personalizada bridada por un estudiante seleccionado con antelación para brindar este servicio
+¿Dónde puedo pedir una monitoría?,"Con coordinación de monitores, area administrativa de la ECEI."
+¿Cuántas monitorías puedo solicitar al semestre?,Las que el estudiante requiera
+¿Las monitorias tienen algún costo?,No
+¿Las tutorías tiene algún costo?,No
+¿Con cuánto tiempo de anticipación debo pedir una monitoria?,24 horas de antelación 
+¿Qué diferencia hay entre una tutoría y una monitoria?,"Una tutoria es brindada por un docente, una monitoria la brinda un estudiante que aplica previamente para ejercer tal rol "
+¿Dónde puedo solicitar un certificado de estudio?,Se puede generar por SAP y lo emite Secretaria General 
+¿Cuánto tiempo se demora un certificado de estudio?,Tres dias hábiles
+¿Cuál es el costo de un certificado de estudio?,$14.080
+¿Dónde puedo reclamar un certificado de estudio?,"El certificado de estudios es solicitado por el estudiante a través del portal SAP. Una vez solicitado, el certificado será enviado al correo institucional del estudiante en un plazo de cinco días hábiles."
+¿Cuándo están disponibles los recibos de pago?,Desde la Escuela se emitira comunicado de disponibilidad de recibos de pago para el siguiente semestre académico. 
+¿Dónde puedo descargar los recibos de pago?,Se puede descargar en la pagina principal de la universidad ( pagos en lines)
+¿Cuáles son los medios de pago disponibles para el semestre?,"Pago virtual en la página de la Universidad PAGOS EN LÍNEA. (Opción financiación)   
+Entidad bancaria que aparece en el recibo en efectivo.   
+En ventanilla de caja de la Universidad (tarjetas o cheque de cesantías).   "
+¿Cómo me puedo cambiar de carrera?,"Deberas notificar inicialmente a la dirección de tu programa la intención de cambio de programa, luego acercarte a admisiones para iniciar tu proceso con el nuevo programa, esto implica entrevista, estudio de homologación al nuevo programa y generación de recibo en caso de ser aprobado el cambio. "
+¿Puedo homologar materias al cambiarme de carrera?,Si
+¿Dónde se realiza la homologación de materias?,Deben enviar la solicitud al correo ecei@usa.edu.co o con las asitentes del programa si corresponden a programas de la Escuela
+¿Tiene algún costo la homologación de materias?,$710.370
+¿Quién es el director o directora de la carrera Ingenieria Industrial?,Diany Puccini
+¿Quién es el director o directora de la carrera Ingenieria Ambiental?,Maria Clara Sanchez
+¿Quién es el director o directora de la carrera Ingenieria Electronica?,Camilo Salazar
+¿Quién es el director o directora de la carrera Matemáticas?,Marta Corrales
+¿Quién es el director o directora de la carrera Ciencias de la computacion e inteligencia artificial?,Camilo Salazar
+¿Quién es el Decano o decana de la escuela?,Luis Alejandro Angel Acosta
+¿Dónde puedo encontrar el director o directora de la carrera Ingenieria Industrial?,En el segundo piso del bloque B por las escaleras internas
+¿Dónde puedo encontrar el director o directora de la carrera Ingenieria Ambiental?,En el segundo piso del bloque B por las escaleras internas
+¿Dónde puedo encontrar el director o directora de la carrera Ingenieria Electronica?,En el segundo piso del bloque B por las escaleras internas
+¿Dónde puedo encontrar el director o directora de la carrera Matematicas?,En el segundo piso del bloque B por las escaleras internas
+¿Dónde puedo encontrar el director o directora de la carrera Ciencias de la computacion e inteligencia artificial?,En el segundo piso del bloque B por las escaleras internas
+¿Cuál es el correo electrónico del director o directora de la carrera Ingenieria Industrial?,diany.puccini@usa.edu.co
+¿Cuál es el correo electrónico del director o directora de la carrera Ingenieria Electronica?,camilo.salazar@usa.edu.co
+¿Cuál es el correo electrónico del director o directora de la carrera matematicas?,martha.corrales@usa.edu.co
+¿Cuál es el correo electrónico del director o directora de la carrera Ciencias de la computacion e inteligecia artificial?,camilo.salazar@usa.edu.co
+¿Puedo hacer doble titulación?,"Claro, esto te ayudará a contar con un mejor perfil profesional y aumentará tus habilidades para el campo laboral. Si quieres mas información del proceso por favor enviar la solicitud a la dirección para contar con un estudio de homolgación que te indique las asignaturas adicionales que deberas cursar, recuerda que los creditos de doble titulación tienen un descuento del 50%, solo si te encuentras activo en ambos programas. "
+¿Cómo puedo hacer una doble titulación? ,Por favor enviar la solicitud a la dirección para contar con un estudio de homolgación que te indique las asignaturas adicionales que deberas cursar.
+¿Cómo sé qué materias debo ver este semestre?,Las materias que deberas cursar corresponden a las reflejadas en tu plan de estudios segun semestre académico.
+¿Existe un mínimo de créditos que deba cursar por semestre?,"Existen tres tipos de matrícula académica: Por créditos correspondiente a un máximo de  4 créditos, media matrícula correspondiente a un máximo de  8 créditos y matrícula completa de 9 créditos en adelante. "
+¿Dónde puedo solicitar el duplicado de mi carnet?,"Con el Departamento de Seguridad, recuerda que esto tiene un costo. "
+¿Qué precio tiene el duplicado del carnet?,$28.290
+¿Cuánto tiempo tarda el duplicado del carnet?,Por lo general te lo entregan en el mismo momento o deberas esperar tres días habiles.
+¿Qué pasa si soy becado y no logro mantener el promedio requerido?,"Lamenteblemente perderas el veceficio, puesto que estas incumpliendo con uno de los requisitos exigidos para matener la misma. "
+¿Cuál es la nota mínima para aprobar una materia?,"3,0"
+¿Puedo realizar un cambio de horario?,"Si, siempre y cuando la solicitud se realice dentro de las fechas establecidad por calendario académico y cuente con cupos la asignatura"
+¿Dónde puedo gestionar el cambio de horario?,Deben enviar la solicitud al correo ecei@usa.edu.co 
+¿Dónde puedo solicitar el aplazamiento el semestre?,Deben enviar la solicitud al correo ecei@usa.edu.co 
+¿Cuántas veces puedo aplazar del semestre?,"Dentro del Reglamento Estudiantil no se establece un número limite de aplazamiento, pero, si al momento de solcitar reintegro el programa ha tenido una modificación en el plan de estudios el estudiante debera acogerce a dicho cambio. "
+¿Cuáles son los requisitos de grado?,1. Finalizar la totalidad de créditos establecidos por el plan de estudios. 2. Certificación y/o resultados de presentación de Saber Pro. 3. Requisito de segunda lengua. 
+¿Dónde debo inscribirme para realizar mis prácticas?,"Debe inscribirse al correo practicas.ecei@usa, directamente en las fechas estipuldas dadas por la ccoridnación de practicas."
+¿Cuánto tiempo duran las prácticas?,6 Meses
+¿Cuántos vale un credito academico para pagar los creditos adicionales?,"Dependiendo del programa académico: 
+INGENIERÍA INDUSTRIAL  $ 307.900
+CIENCIAS DE LA COMPUT. E INTELIG.ARTIF. $300.000
+INGENIERÍA ELECTRÓNICA $299.500
+INGENIERÍA AMBIENTAL $271.900
+MATEMÁTICAS  $314.900"
+¿Qué electivas que puedo cursar este semestre?,"Dependiendo del programa académico: 
+INGENIERÍA INDUSTRIAL  
+Ingeniería Organizacional
+Toma de decisiones
+Ingeniería Humanitaria
+Lean Manufacturing
+
+CIENCIAS DE LA COMPUT. E INTELIG.ARTIF. 
+Ciencias de Datos
+Optativa 1 Introducción a la Ciencia de Datos.
+Optativa 2 Exploración y preprocesamiento de datos.
+Optativa 3  Modelos predictivos.
+Computación de Alto Rendimiento para IA
+Optativa 1 Introducción a HPC.
+Optativa 2 Métricas de Rendimiento y Algoritmo.
+Optativa 3 Redes Neuronales para Clasificación de Imágenes
+Ciberseguridad y Seguridad Digital
+Optativa 1 Fundamentos Avanzados de Ciberseguridad Ethical Hacking.
+Optativa 2 Investigación Digital Forense Ciberseguridad Industrial.
+Optativa 3 Criptografía Ciberseguridad y Ciberdefensa.
+Sistemas Inteligentes
+Optativa 1 Sistemas Inteligentes
+Optativa 2 Aprendizaje Supervisado
+Optativa 3 Aprendizaje profundo
+
+INGENIERÍA ELECTRÓNICA 
+Telecomunicaciones
+Comunicaciones análogas y digitales 
+Medios de transmisión 
+Telemática 
+Redes 
+Comunicaciones terrestres y satelitales 
+Comunicaciones móviles 
+
+Energía
+Máquinas eléctricas 
+Generación y almacenamiento de energía 
+Smart Grids 
+
+Automatización y Control 
+Modelación e identificación de sistemas 
+Sistemas de control analógico y digital 
+Automatización 
+Control inteligente 
+
+Internet de las Cosas (IoT)
+Introducción a IoT 
+Diseño de dispositivos IoT 
+Redes de sensores inhalambricos 
+
+
+Máquinas Inteligentes
+Aprendizaje de máquinas 
+Robótica 
+Visión por computador
+
+
+Bioingeniería
+Introducción a la Bioingeniería 
+Bioinstrumentación 
+Biónica 
+
+INGENIERÍA AMBIENTAL
+Cambio Climático y gestión del riesgo
+Optativa A1. La ciencia del clima y meteorología
+Optativa A2. Política y economía para el cambio climático
+Optativa A3. Formulación y evaluación de proyectos
+para el cambio climático
+Optativa B1. Gestión integral del riesgo
+Optativa B2. Gestión de riesgos naturales
+Optativa B3. Gestión de riesgos antrópicos
+Desarrollo territorial Sostenible e inteligente
+Optativa A1. Ingeniería y ciudad
+Optativa A2. Gobernanza y ciudades inteligentes
+Optativa A3. Analítica de datos al componente urbano
+Optativa B1. Ingeniería humanitaria
+Optativa B2. Política y desarrollo rural
+Optativa B3. Proyectos de desarrollo rural
+Economía circular y energías alternativas 
+Optativa A1. Ciencias de los materiales
+Optativa A2. Economía circular
+Optativa A3. Análisis de ciclo de vida
+Optativa B1. Energías renovables y medio ambiente
+Optativa B2. Gestión energética y auditorias
+Optativa B3. Formulación de proyectos energéticos
+
+MATEMÁTICAS 
+ANÁLISIS MATEMÁTICO
+· Ecuaciones Diferenciales Parciales
+· Análisis Funcional
+· Teoría de la Medida
+· Procesos Estocásticos
+ÁLGEBRA
+· Teoría de Galois Clásica
+· Álgebra Lineal Avanzada
+· Teoría de Categorías
+· Tópicos Avanzados de Teoría de Grupos y Anillos
+· Temas Avanzados de Teoría de Números
+· Teoría de Cuerpos
+LÓGICA
+· Lógica Categórica
+· Teoría de Modelos
+· Lógica no Clásica
+TOPOLOGÍA
+· Topología Diferencial
+· Topología Algebraica
+HISTORIA DE LA MATEMÁTICA Y FILOSOFÍA DE LA CIENCIA
+· Clásicos Griegos
+· Matemática Moderna y Filosofía de la Matemática
+· Epistemología y Didáctica de la Matemática
+ANÁLISIS DE DATOS
+· Estadística Matemática
+· Programación"
+¿Qué puedo hacer si tengo dificultades con una materia?,"Puedes escribir un correo a tu coordinadora liliana.castro@usa.edu.co o visitarla en el Bloque B, piso 2"
+¿Dónde puedo pedir prestado un computador?,Debes realizar la reserva de equipo medios audiovisuales del bloque F- 4 Piso.
+¿Quién es la persona encargada de las prácticas?,"La coordinadora Sandra Rodríguez, su correo es practicas.ecei@usa.edu.co"
+¿Cómo me puedo inscribir en el deporte de la universidad?,Con el coordinador de Deportes en el Centro de Formación Deportiva 
+¿Hay algún requisito para cambiarme de carrera?,No 
+¿Cuáles son las áreas de especialización disponibles para la carrera ingeniería industrial?,"En la Escuela de Ingeniería contamos con las siguientes especializaciones y maestrías:
+
+Especialización en Gerencia de Producción y Operaciones
+Enfocada en la optimización de procesos productivos y la gestión eficiente de operaciones dentro de las organizaciones.
+
+Maestría en Gerencia de Producción y Operaciones
+Programa avanzado que proporciona herramientas estratégicas para liderar y mejorar los procesos de producción y las operaciones en diversos sectores industriales.
+
+Especialización en Dirección y Gestión de Proyectos
+Formación especializada en la planificación, ejecución y control de proyectos, garantizando el éxito en términos de tiempo, costos y calidad.
+
+Maestría en Gestión y Optimización de la Calidad
+Programa orientado a desarrollar competencias en la gestión y mejora continua de la calidad en los procesos organizacionales.
+
+Especialización en Gerencia Integral de la Calidad
+Enfocada en la implementación y gestión de sistemas de calidad que aseguren la mejora constante en todos los niveles de una organización."
+¿Cuáles son las áreas de especialización disponibles para la carrera ingeniería ambiental?,"En la Escuela de Ingeniería contamos con las siguientes especializaciones y maestrías: Especialización en en Gerencia Ambiental y Gestión de Riesgo de Desastres 
+Maestría en Gestión y Evaluación Ambiental "
+¿Cuáles son las áreas de especialización disponibles para la carrera ingenieria Electronica?,"En la Escuela de Ingeniería contamos con las siguientes especializaciones y maestrías:  Especialización en Seguridad de la Información y la informatica
+
+Maestría en Gestión de la Información y Tecnologias Geoespaciales
+Maestría en inteligencia Artificial"
+¿Cuáles son las áreas de especialización disponibles para la carrera Matemáticas?,"En la Escuela de Ingeniería contamos con las siguientes especializaciones y maestrías: Maestría en Gestión de la Información y Tecnologias Geoespaciales
+Maestría en inteligencia Artificial
+Maestría en Matematicas Aplicadas"
+¿Cuáles son las áreas de especialización disponibles para la carrera ciencias de la computación e inteligencia artificial?,"En la Escuela de Ingeniería contamos con las siguientes especializaciones y maestrías: Maestría en Gestión de la Información y Tecnologias Geoespaciales
+Maestría en inteligencia Artificial"
+¿Como puedo formar parte de los semilleros de investigación?,"Cada inicio de semestre se comparte un correo de convocatoria con la oferta de semillero y contacto del docente, es importante enviar correo con la menor premura posible, puesto que los cupos son limitados"
+¿Cuáles son los requisitos para ingresar a los semilleros de investigación?,"Por lo general no cuentan con requisitos, pero si es así el docente responsable lo infomara en el momento de la socliud de inscripción. "
+¿Qué debo hacer si se me daña un equipo?,Reportar de inmediato a los auxiliares de labortaorio encargados de las salas.
+¿Qué debo hacer si encuentro un equipo dañado?,Reportar de inmediato a los auxiliares de labortaorio encargados de las salas.
+¿Existe algún tutor que me pueda orientar con mi proyecto de grado?,"Si, hay docentes designados para tal fin, por favor validar con la dirección del programa "
+¿Dónde puedo solicitar un tutor para mi proyecto de grado?,"En la Escuela con el Director de programa, recuerda que tu propuesta debe estar previamente aprobada por la Dirección. "
+¿Con qué empresas puedo realizar mis prácticas?,"Las practicas se realizan con cualquier empresa, siempre y cuando se encuentre legalmente constituida, se realice vinculación de prácticante y tus funciones esten a fin con tu programa académico. "
+¿Cuál es la nota final de una materia para poder realizar una habilitación?,La nota perdida de la asignatura debe ser igual o superior a 2.5 
+¿Cuál es el valor de una habilitación?,$1.250.510
+Si encuentro un objeto perdido ¿a dónde debo llevarlo?,A Bienestar Universitario
+¿Qué es la homologación de asignaturas en la Universidad Sergio Arboleda?,"La homologación de asignaturas es el mecanismo mediante el cual el Director del Programa Académico que recibe al estudiante acepta como equivalente una asignatura cuando sus objetivos, créditos, contenidos e intensidad horaria son semejantes a los del postgrado ofrecido por la Universidad Sergio Arboleda y la nota es aprobatoria, en los términos del artículo 30 del reglamento."
+¿Qué es la homologación interna?,"La homologación interna ocurre cuando el estudiante que solicita la homologación de una o varias asignaturas proviene de un programa cursado en la Universidad Sergio Arboleda. Esta homologación operará directamente, previa verificación del Director del Postgrado y concepto favorable de la Decanatura de la Escuela. Se registrará la calificación que el estudiante obtuvo en el programa del cual proviene y se asignará el número de créditos académicos establecidos para la asignatura en el nuevo programa."
+¿Qué es la homologación por convenio?,La homologación por convenio se realiza de acuerdo con los convenios interinstitucionales nacionales e internacionales. Esta homologación operará directamente según lo establecido en el convenio. El Director del Programa deberá solicitar al Decano de la Escuela respectiva la inscripción de la homologación aprobada en el sistema académico.
+¿Qué es la homologación externa?,"La homologación externa ocurre cuando un estudiante solicita que le sean homologadas asignaturas cursadas en otro programa de postgrado de una institución de educación superior. La Universidad Sergio Arboleda determinará la viabilidad de dicha solicitud, la cual no podrá exceder el 40% del total de los créditos del programa en el que se encuentra matriculado. El Director del Postgrado verificará que los objetivos, créditos, contenidos e intensidad horaria sean semejantes y que la nota definitiva haya sido aprobatoria en los términos del artículo 30 del reglamento."
+¿Cuál es la validez de los créditos académicos cursados y aprobados para ser homologados?,"Los créditos académicos cursados y aprobados tendrán una validez hasta de tres (3) años para Especialización y hasta de cinco (5) años para Maestría y Doctorado, previo concepto favorable del Director, para que la Universidad los reconozca como créditos que pueden ser homologados en otros planes de estudio diferentes a aquel en el que estaba inscrito el estudiante."
+¿Qué es la prueba de validación por suficiencia?,La prueba de validación por suficiencia permite a los estudiantes solicitar pruebas de validación cuando consideran que sus conocimientos son acreditables con suficiencia. Corresponderá al Director del Programa decidir sobre la solicitud y hacer exigibles los requisitos adicionales. La validación producirá el efecto de la homologación si el examen es aprobado con una nota igual o superior a cuatro punto cero (4.0).
+¿Cuándo deben presentarse las pruebas de validación por suficiencia?,"Las pruebas de validación deberán ser presentadas durante el período académico que curse el estudiante y consistirán en un examen diseñado por el Director de la respectiva especialización, maestría o doctorado. Este examen tiene por objeto comprobar el conocimiento sobre la totalidad de la asignatura que se pretende validar."
+¿Cuál es el límite para la validación de créditos académicos mediante pruebas de suficiencia?,Podrá validarse hasta el 25% del total de créditos académicos mediante pruebas de validación por suficiencia.
+¿Qué es la evaluación en la Universidad Sergio Arboleda?,"a evaluación es el acto mediante el cual el docente valora y estimula el proceso de enseñanza-aprendizaje mediante la emisión de juicios, con el fin de estimar los conocimientos, aptitudes y rendimiento de los estudiantes."
+¿Qué tipo de evaluaciones pueden implementar los docentes según la política institucional?,"Los docentes deben implementar un modelo participativo en sus evaluaciones, que puede incluir trabajos de investigación dirigidos, talleres, ensayos, roles, informes u otros métodos apropiados. Las evaluaciones pueden ser orales o escritas, y pueden utilizar herramientas tecnológicas, siendo presenciales o virtuales, según la modalidad y exigencias del programa."
+¿Qué debe hacer el profesor al inicio de cada asignatura en relación con las evaluaciones?,"Al inicio de cada asignatura, el profesor debe entregar a los estudiantes el programa que incluya el contenido, la metodología de evaluación y el valor de las pruebas, previa aprobación del Director del Programa. No se aceptan autoevaluaciones ni notas apreciativas."
+¿Dónde y cuándo se presentan las pruebas según el reglamento?,"Las pruebas se presentarán en las instalaciones de la Universidad en la fecha y hora fijadas por la respectiva autoridad académica, dentro del Calendario Académico."
+¿Cuál es la escala numérica utilizada para la calificación y su equivalente cualitativo?,La escala numérica utilizada para la calificación es la siguiente:                                                                                                                                     Cinco punto cero (5.0): Excelente
+¿Cómo se maneja la aproximación de calificaciones cuando se expresan en centésimas?,"Cuando una calificación definitiva arroje como resultado una cifra expresada en centésimas, se aproximará a la décima más cercana."
+¿Qué calificación se asigna a los estudiantes que pierden la asignatura por fallas o no presentan examen supletorio?,Se extenderá una nota de cero punto cero (0.0) para los estudiantes que hayan perdido la asignatura por fallas. La misma calificación será asignada a quienes no hayan presentado examen supletorio.
+¿Cuándo se reconocerá una asignatura como aprobada y se concederán los créditos correspondientes?,Solo cuando en la calificación final se haya alcanzado por lo menos la calificación aprobatoria mínima de tres punto cinco (3.5) se reconocerá la asignatura como aprobada y se concederán los créditos asignados a dicha asignatura como válidos para la obtención del título que otorga el Programa.
+¿Qué tipo de pruebas supletorias se pueden presentar?,"Se pueden presentar pruebas supletorias de las evaluaciones orales y escritas, de los trabajos y de las pruebas parciales o finales."
+¿Quién autoriza la presentación de pruebas supletorias y cuál es el procedimiento para solicitarlas?,"La autorización para la presentación de pruebas supletorias será otorgada por el respectivo Director del Programa y/o el Decano de la Escuela respectiva. La justificación para solicitarla se debe hacer mediante un escrito dirigido al Director del Programa Académico dentro de los cinco (5) días hábiles siguientes a la fecha en que se realizó la prueba. El Director decidirá sobre la procedencia dentro de los cinco (5) días hábiles siguientes a la recepción de la solicitud e indicará, en caso de aceptarla, la fecha y forma de desarrollo del examen supletorio."
+¿Existe alguna posibilidad de presentar una prueba supletoria si se pierde el examen supletorio?,"No, no habrá prueba supletoria del examen supletorio y su no presentación será calificada con cero punto cero (0.0)."
+¿De qué tipo serán las pruebas supletorias comparadas con las pruebas originales?,"Las pruebas supletorias de los exámenes, parciales, trabajos y evaluaciones orales en clase serán del mismo tipo de la realizada originalmente."
+¿Cuándo se fijará la fecha de presentación de una prueba supletoria?,La fecha de presentación de la prueba supletoria se fijará dentro de los cinco (5) días hábiles siguientes a la fecha en que fue autorizada la prueba supletoria.
+¿Qué costo tienen las pruebas supletorias y cuándo se debe cancelar?,El costo de las pruebas supletorias será el que señale la Universidad. El estudiante debe cancelar el costo antes de la presentación del examen correspondiente.
+"¿Qué debe hacer un estudiante si desea reclamar sobre las calificaciones obtenidas en exámenes parciales, finales o trabajos?",El estudiante debe presentar un reclamo por escrito ante el Director del Programa Académico dentro de los cinco (5) días hábiles siguientes al día en que se publica la calificación en referencia. La petición debe ser sustentada en forma clara y precisa.
+¿Quién concede la revisión de las calificaciones y cómo se tramitará?,"El Decano o el Director del Programa concederán la revisión mencionada, la cual se tramitará ante el correspondiente docente."
+¿Qué puede suceder con la calificación tras la revisión?,"En la revisión efectuada, se podrá disminuir, confirmar o aumentar la calificación obtenida por el estudiante. La nota resultante será la que se registre oficialmente."
+"¿Qué se entiende por ""publicación"" de una calificación?","Se entiende por publicación el acto por medio del cual la autoridad competente del Programa académico da a conocer la calificación, a través del mecanismo establecido por la Universidad."
+¿Qué puede hacer un estudiante si considera que la decisión del profesor no corresponde a los criterios de evaluación?,"El estudiante puede solicitar la designación de un segundo calificador mediante un escrito debidamente sustentado, dirigido al Director de Especialización, Maestría o Doctorado o al Decano de la Escuela, dentro de los cinco (5) días hábiles siguientes al conocimiento de la decisión. Si la petición está fundamentada, se procederá a designar un segundo calificador cuya decisión será definitiva e inmodificable y reemplazará la primera nota."
+¿Qué debe hacer un estudiante si está en desacuerdo con la calificación de una evaluación oral?,El estudiante debe manifestar su desacuerdo al profesor inmediatamente después de conocida la calificación y solicitar su reconsideración. En la revisión de las evaluaciones orales se levantará un acta en la cual se reconstruye la evaluación oral utilizando los medios establecidos por la Universidad y se consignarán las razones para la confirmación o modificación de la calificación.
+¿Cuál es la calificación mínima aprobatoria para una asignatura en el reglamento de posgrados?,La calificación mínima aprobatoria para una asignatura es de tres punto cinco (3.5).
+¿Qué ocurre si un estudiante reprueba una asignatura?,Toda asignatura que se repruebe debe repetirse. Una asignatura puede repetirse hasta por dos veces.
+¿Cuál es la nota mínima aprobatoria si un estudiante repite una asignatura por primera vez?,"Si la asignatura se repite por primera vez, la nota mínima aprobatoria deberá ser de cuatro punto cero (4.0)."
+¿Cuál es la nota mínima aprobatoria si un estudiante repite una asignatura por segunda vez?,"Si la asignatura se repite por segunda vez, la nota mínima aprobatoria deberá ser de cuatro punto cinco (4.5)."
+¿Qué deben hacer los estudiantes para repetir una asignatura?,"La repetición de una asignatura podrá hacerse previo el pago de los derechos económicos correspondientes, cursando la materia en un período académico regular o mediante cursos nivelatorios."
+Qué son los cursos nivelatorios?,"Los cursos nivelatorios son aquellos que permiten a los estudiantes nivelar las asignaturas que hayan cursado y perdido, aplazado o retirado, así como ver asignaturas que no hayan cursado, en períodos diferentes a los regulares, programados por la Dirección del correspondiente Postgrado."
+Cómo se imparten los cursos nivelatorios?,Los cursos nivelatorios podrán dictarse de manera semipresencial bajo la directa supervisión de un docente experto en el tema y designado para tal fin por el Director del Programa.
+¿Cuál es la equivalencia entre los cursos nivelatorios y los cursos regulares?,"El contenido, la metodología y la intensidad horaria de cada curso nivelatorio serán los mismos que los del curso regular."
+¿De qué depende la programación de los cursos nivelatorios?,La programación de los cursos nivelatorios es discrecional de la Universidad y dependerá del número de estudiantes que aspiren a cursarlos.
+¿Qué entidad establece las condiciones y el costo de los cursos nivelatorios?,"La Decanatura de la Escuela respectiva podrá establecer las condiciones y la forma en que se desarrolle cada curso, y su costo será el que para tal efecto estipule la Dirección Financiera de la Universidad."
+¿Cuáles son los requisitos académicos para optar al título en los programas de posgrado?,"Para obtener el título correspondiente, el estudiante deberá cumplir con los siguientes requisitos:                                                                                               1. Haber cursado y aprobado la totalidad de los créditos académicos establecidos por cada Programa, así como cumplir los requisitos específicos establecidos en los reglamentos internos para las Maestrías y Doctorados."
+,"2. Haber cancelado los derechos de grado y encontrarse a paz y salvo por todo concepto con la Universidad y, en particular, con el Departamento de Cartera y la Biblioteca de la Institución."
+,3. Acreditar los demás documentos académicos y administrativos que señalen las normas legales y reglamentarias de la Universidad.
+¿Cuál es el plazo máximo para obtener el título de Especialista en la Universidad Sergio Arboleda?,"El plazo máximo para obtener el título de Especialista es de tres (3) años, contados a partir de la fecha de la matrícula inicial en el respectivo Programa."
+¿Cuál es el plazo máximo para obtener el título de Maestría en la Universidad Sergio Arboleda?,"El plazo máximo para obtener el título de Maestría es de cinco (5) años, contados a partir de la fecha de la matrícula inicial en el respectivo Programa."
+¿Cuál es el plazo máximo para obtener el título de Doctorado en la Universidad Sergio Arboleda?,"El plazo máximo para obtener el título de Doctorado es de siete (7) años, contados a partir de la fecha de la matrícula inicial en el respectivo Programa."
+¿Puede la Universidad exigir requisitos adicionales para obtener el título después del plazo máximo establecido?,"Sí, la Universidad se reserva el derecho de exigir requisitos de actualización al interesado si el plazo máximo para obtener el título ha sido excedido."
+¿Qué programas de posgrado ofrece la Universidad Sergio Arboleda?,"La Universidad ofrece especializaciones, maestrías y doctorados en diversas áreas como derecho, negocios, ingeniería, comunicación, entre otras."
+¿Cuáles son los requisitos de admisión?,"Depende del programa, pero generalmente incluyen hoja de vida, título profesional, entrevista y pruebas de admisión."
+¿Cómo es el proceso de inscripción y cuáles son las fechas clave?,"Debes diligenciar el formulario en línea, subir documentos y estar atento al calendario académico publicado en la página web institucional."
+¿Qué modalidades tiene el programa que me interesa?,"Algunos programas se ofrecen en modalidad presencial, virtual o híbrida. Puedes verificarlo en la descripción del programa."
+¿A quién puedo acudir si tengo dudas sobre mi plan de estudios?,Puedes comunicarte con el director del programa o con la coordinación académica de posgrados.
+¿Qué recursos académicos tengo disponibles?,"Tienes acceso a biblioteca, bases de datos, plataformas virtuales y tutorías académicas."
+¿Qué servicios ofrece la Universidad para egresados?,"La Universidad ofrece educación continua, eventos, diplomados y acceso a la bolsa de empleo."
+¿Dónde puedo actualizar mis datos?,Puedes actualizar tus datos en el portal de egresados o contactando a la oficina de egresados.
+¿Cómo consulto mis calificaciones y avances académicos?,Puedes ingresar al portal académico con tu usuario institucional para revisar tus calificaciones y el historial académico.
+¿Dónde puedo ver el horario de mis clases?,El horario está disponible en el portal académico o puedes solicitarlo a tu coordinación de programa.
+¿Qué hago si tengo un problema con un docente o una clase?,Puedes comunicarte con la coordinación de posgrados o el director del programa para plantear tu inquietud y recibir orientación.
+¿Cómo solicito aplazamiento de semestre o cancelación de asignatura?,"Debes presentar la solicitud formal a la coordinacion del programa , cumpliendo con los plazos establecidos."
+¿Hay apoyo psicológico o consejería académica disponible?,"Sí, la Universidad ofrece servicios de bienestar universitario que incluyen apoyo psicológico y acompañamiento académico."
+¿Qué pasa si no puedo asistir a una clase?,"Te recomendamos notificar al docente yla coordinacion del programa, no puedes superar el 25% del total de fallas durante una materia."
+¿Qué requisitos debo cumplir para graduarme?,"Debes aprobar todas las asignaturas del plan de estudios, cumplir con el trabajo de grado y estar a paz y salvo académica y financieramente"
+Cómo hago seguimiento a mi trabajo de grado o tesis?,"Debes mantener comunicación constante con tu tutor o director de trabajo, y seguir los cronogramas definidos por tu programa."
+¿Como postularme a grados?,"UNIVERSIDAD SERGIO ARBOLEDA
+Escuela de Ciencias Exactas e Ingeniería
+
+PROCESO PARA MARCACIÓN COMO FUTURO EGRESADO Y POSTULACIÓN A GRADO
+
+Fase 1: Marcación como futuro egresado
+Una vez culmines la totalidad de tu plan de estudios, incluyendo práctica profesional y opción de grado, deberás postularte a la Fase 1 del proceso, con el fin de obtener tu marcación como futuro egresado. Esta fase siempre estará activa, lo que quiere decir que puedes postularte en cualquier momento [aquí].
+
+Fase 2: Postulación a grados
+Recibirás un correo de la Escuela con el link de postulación a grados, el cual podrás diligenciar solo si ya cuentas con la confirmación de marcación como futuro egresado, de lo contrario será rechazada tu postulación.
+
+*Esta fase sí cuenta con restricción de fecha, según calendario académico."
+¿Cuál es el objetivo fundacional de la Universidad Sergio Arboleda según el PEI 2018?,"Formar personas íntegras, es decir, seres humanos éticos, cultos y comprometidos con la transformación de la sociedad desde el Humanismo Integral."
+¿Qué representa el escudo de la Universidad Sergio Arboleda en el contexto del PEI?,"El tronco simboliza la filosofía del PEI y las ramas representan las humanidades y las ciencias exactas, reflejando una visión integral del conocimiento."
+¿Cuáles son los cuatro pilares institucionales del PEI 2018?,"Humanismo Integral, Excelencia Académica, Internacionalización y Emprendimiento e Innovación."
+¿Qué principios humanísticos guían la acción institucional de la Universidad?,"El cuidado del desarrollo pleno, la justicia, la solidaridad, el respeto a las convicciones, y el rol central de las humanidades en la formación ética y cultural."
+¿Cómo se concibe al estudiante en el PEI de la Universidad Sergio Arboleda?,"Como el centro del proceso educativo, con protagonismo activo, autonomía responsable y compromiso con la construcción del conocimiento."
+¿Cuál es el perfil del Docente Sergista según el PEI?,"Un educador identificado con el humanismo integral, ejemplar, comprometido con su formación continua, veraz, respetuoso y promotor del pensamiento crítico y ético."
+¿Qué competencias debe tener el Investigador Sergista?,"Competencias investigativas, docentes, creatividad, sociabilidad, prolijidad y una visión humanista integral."
+¿Qué rol cumple la investigación en el PEI?,Es base del desarrollo integral y generadora de nuevo conocimiento con sentido social y pertinencia nacional e internacional.
+¿Cómo se define la función de Proyección Social en el PEI?,"Como la estrategia que permite transferir conocimientos a la sociedad a través de educación continuada, emprendimiento y vinculación con egresados."
+¿Qué objetivos tiene el componente de Educación Continuada?,"Actualizar conocimientos, generar estrategias académicas pertinentes y desarrollar competencias para el crecimiento económico, social y cultural."
+¿Cuál es la misión del Bienestar Institucional en el PEI?,"Promover un entorno favorable para el desarrollo integral de la comunidad universitaria en dimensiones físicas, espirituales, afectivas, sociales y laborales."
+¿Cuál es el objetivo principal del Estatuto Docente de la Universidad Sergio Arboleda?,"Promover la profesionalización de los docentes, reconociendo experiencia, méritos y formación avanzada para mejorar el ejercicio pedagógico y garantizar altos estándares de calidad."
+¿Qué tipos de docentes existen en la Universidad Sergio Arboleda según el Estatuto Docente?,"Docentes de planta, visitantes y de cátedra."
+¿Cómo se clasifican los docentes de planta según su dedicación?,En docentes de tiempo completo y de tiempo parcial.
+¿Cuáles son las categorías del escalafón docente para docentes de planta?,"Auxiliar, Asistente, Asociado y Titular."
+¿Qué derechos tienen los docentes según el Estatuto?,"Participar en programas de actualización, recibir trato respetuoso, obtener licencias y permisos, entre otros."
+¿Cuáles son algunos deberes de los docentes según el Estatuto?,"Ejercer la actividad académica con objetividad, transmitir conocimientos, cumplir con los estatutos y reglamentos, respetar la propiedad intelectual."
+¿Cuál es el objetivo de la evaluación docente?,Determinar niveles de desempeño para tomar medidas de mejoramiento y fomentar el desarrollo docente.
+¿Qué distinciones académicas puede recibir un docente?,"Premio de Excelencia 'Sergio Arboleda', Premio Anual a la Investigación, y distinciones como Docente Distinguido, Epónimo, Honorario y Emérito."
+¿Qué es un período sabático según el Estatuto?,"Un incentivo para docentes de trayectoria que permite dedicarse a la producción académica hasta por un año, con goce de sueldo."
+¿Qué sanciones disciplinarias contempla el Estatuto?,"Llamado de atención verbal, memorando, suspensión sin remuneración y terminación del contrato."
+¿Qué documento regula los casos de transición no contemplados en el Estatuto Docente?,La Resolución No. 001 del 1º de septiembre de 2013 expedida por la Vicerrectoría Académica.
+¿Quiénes conforman el Comité de Evaluación y Escalafonamiento (CEE)?,"El Vicerrector Académico (preside), Vicerrector Administrativo, Presidente del Consejo Académico, un Representante de los profesores y el Director de Planeación."
+¿Qué aspectos se evalúan para clasificar a un docente en el escalafón?,"Formación, experiencia, desempeño y producción intelectual."
+¿Qué condiciones se deben cumplir para solicitar equivalencia a título de Maestría?,"Título de pregrado, cinco años de experiencia profesional o académica con dedicación de tiempo completo y 500 puntos de producción intelectual."
+¿Qué tipo de producción se considera en la evaluación del escalafón docente?,"Producción intelectual en docencia, investigación o extensión divulgada o protegida según estándares reconocidos nacional o internacionalmente."
+¿Qué sanciones pueden aplicarse en caso de una falta disciplinaria grave?,Suspensión sin remuneración hasta por dos meses o terminación del contrato.
+¿Qué modalidades de dedicación existen para los docentes?,"Dedicación exclusiva, tiempo completo (mínimo 40 horas semanales), y tiempo parcial (mínimo 20 horas semanales)."
+¿Qué incentivos contempla el Estatuto Docente?,"Distinciones académicas, premios, periodo sabático, y otros reconocimientos establecidos por reglamento."
+¿Cuál es la vigencia del Estatuto Docente?,Tiene vigencia desde su aprobación por parte del Consejo Académico de la Universidad el 15 de agosto de 2013.
+¿Qué condiciones permiten que un docente mantenga su nivel en el escalafón durante el régimen de transición?,"Haber estado vinculado por al menos 10 años y estar escalafonado en un nivel superior, incluso si no acredita todos los requisitos."
+¿Cuál es la misión de la Universidad Sergio Arboleda según el Plan de Desarrollo Institucional 2018-2026?,"Formar integralmente profesionales idóneos, con principios cristianos y humanísticos, capaces de liderar el desarrollo económico, social y cultural nacional e internacionalmente."
+¿Qué visión tiene la Universidad Sergio Arboleda para el año 2026?,"Ser reconocida como una institución de alta calidad que forma seres globales, emprendedores y transformadores desde el humanismo integral, en un entorno internacional e innovador."
+¿Cuáles son los cuatro pilares del Plan de Desarrollo Institucional 2018-2026?,"Humanismo Integral, Excelencia Académica, Internacionalización, y Emprendimiento e Innovación."
+¿Qué significa el programa 'SER-GISTA'?,"Es el programa que forma estudiantes como seres globales, íntegros, solidarios e innovadores, abordando aspectos como la deserción y seguimiento a su desempeño desde los pilares institucionales."
+¿Qué componentes tiene el programa 'Sergio Digital'?,Componentes que incentivan la creación de mundos virtuales y proporcionan los recursos físicos y tecnológicos para su implementación.
+¿Qué propósito tiene el programa 'Profesor Sergista'?,"Convertir al docente en promotor del humanismo integral, con vivencia internacional y espíritu empresarial, incluyendo evaluación y seguimiento docente."
+¿Qué caracteriza al modelo de planeación llamado 'Metro de la Sergio'?,"Es una metáfora que representa los pilares institucionales como líneas de metro y los programas como estaciones, articulando recursos y acciones para cumplir las metas del plan estratégico."
+¿Qué desafíos enfrenta la Universidad en el Pilar de Internacionalización?,"La globalización exige acceso equitativo a educación, competencia multicultural y dominio del inglés como lengua global."
+¿Qué retos busca abordar el Pilar de Excelencia Académica?,"Garantizar pertinencia y calidad en programas e investigaciones, con estándares internacionales y el uso de plataformas digitales."
+¿Cuál es la apuesta en el Pilar de Transformación Digital?,"Crear espacios de aprendizaje digital, inmersión tecnológica y competencias para un entorno digital adaptativo e innovador."
+¿Cuál es el objetivo principal del Pilar de Humanismo Integral?,Fortalecer el sentido humanista integral como sello distintivo institucional en toda la comunidad universitaria.
+¿Qué acciones están contempladas para fomentar el humanismo integral en la Universidad?,"Reestructurar el núcleo humanístico, crear agendas institucionales, proyectos de desarrollo integral, y estrategias deportivas como parte de la formación del SER-GISTA."
+¿Qué se busca con el Pilar de Excelencia Académica?,"Potenciar la excelencia académica a través de programas pertinentes, cuerpo docente calificado, investigación aplicada y permanencia estudiantil."
+¿Qué medidas contempla la Universidad para promover la excelencia docente?,"Incentivos para la permanencia, categorización en el escalafón, criterios de formación y evaluación docente vinculada a competencias pedagógicas y tecnológicas."
+¿Qué objetivos tiene la Universidad respecto a la internacionalización?,"Cumplir estándares internacionales de calidad, articular ambientes globales, atraer docentes internacionales y fomentar competencias multiculturales."
+¿Qué estrategias se proponen para mejorar las competencias culturales e idiomáticas?,Diseñar una estrategia innovadora para la enseñanza de lenguas y articular competencias culturales en los currículos.
+¿Cómo se promueve el emprendimiento en la Universidad?,"Con programas de formación de emprendedores, integración del emprendimiento en el currículo y acompañamiento a iniciativas empresariales."
+"¿Cómo se articula la investigación con los sectores público, privado y social?",Incorporando resultados de investigación en actividades universitarias y estableciendo directrices para la transferencia de conocimiento.
+¿Qué programas hacen parte de la gestión institucional?,"Efectividad institucional, Sostenibilidad integral y Campus vivo, los cuales apoyan todas las acciones del plan."
+¿Qué caracteriza al programa 'Egresado Sergista'?,"Busca vincular al egresado con la Universidad, evaluar su desempeño laboral y asegurar una oferta de actualización académica pertinente."
+¿Cuál es la misión de la Universidad Sergio Arboleda según el Reglamento Estudiantil?,"Formar profesionales idóneos con espíritu ético y cívico, estructurados en los principios de la filosofía cristiana y humanística, para liderar el desarrollo económico, social y cultural nacional e internacional."
+¿Qué principios fundamentan la filosofía institucional según el Reglamento Estudiantil?,"Valores cristianos y humanísticos, investigación como generadora de conocimiento, honestidad y ética, autoevaluación permanente y liderazgo en el ejercicio profesional."
+¿Qué condiciones se deben cumplir para que una matrícula sea válida?,Debe realizarse tanto la matrícula académica como la financiera dentro de los plazos establecidos.
+¿En qué casos procede la devolución del 100% del valor de la matrícula?,Cuando no se abre el programa académico o si el estudiante es llamado a prestar servicio militar obligatorio.
+¿Qué se requiere para una transferencia externa a la Universidad Sergio Arboleda?,"Solicitud escrita, certificados de calificaciones, programas cursados, certificado de buena conducta y cursar al menos el 60% de los créditos del programa."
+¿Cuál es el promedio mínimo de permanencia exigido para estudiantes de pregrado?,Un promedio ponderado acumulado mínimo de 3.3 desde el segundo semestre de 2016.
+¿Qué ocurre si un estudiante no alcanza el promedio mínimo requerido?,"Entra en semestre de prueba; si no mejora su promedio, puede ser suspendido o limitado a cursar solo materias reprobadas."
+¿Cuáles son algunos de los derechos de los estudiantes según el Reglamento?,"Acceder a los programas, recibir carné estudiantil, presentar solicitudes respetuosas, conocer resultados académicos y recibir trato respetuoso."
+¿Cuáles son algunas obligaciones que deben cumplir los estudiantes?,"Asistir a clases, respetar normas institucionales, actuar conforme a valores éticos y evitar actos de discriminación o violencia."
+¿Qué es el Programa de Honores 'Rodrigo Noguera Laborde'?,"Es un reconocimiento a estudiantes sobresalientes por su trayectoria académica, personal y social, reglamentado mediante resolución rectoral."
+¿Qué requisitos se deben cumplir para obtener una distinción honorífica como Cum Laude?,"Tener un promedio ponderado acumulado entre 4.3 y 4.4, y no haber sido sancionado disciplinariamente."
+¿Qué se considera una falta gravísima según el Reglamento Estudiantil?,"Plagio, suplantación personal, agresión física, falsificación de documentos, entre otras conductas graves contra personas o la Universidad."
+¿Qué sanciones pueden imponerse por cometer faltas gravísimas?,"No renovación de matrícula hasta por tres períodos, suspensión del grado, anulación de matrícula o expulsión hasta por diez años."
+¿Qué derechos tiene un estudiante durante un proceso disciplinario?,"Presunción de inocencia, debido proceso, derecho de defensa, igualdad, doble instancia y ser notificado formalmente."
+¿Cuántas evaluaciones se realizan por asignatura y cuál es su peso porcentual?,"Tres evaluaciones: 30% primer corte, 30% segundo corte y 40% corte final."
+¿Qué procedimiento debe seguir un estudiante para solicitar la revisión de una prueba académica?,"Presentar solicitud escrita en un plazo de 3 días hábiles después de publicada la nota, explicando los motivos y señalando los errores."
+¿Qué sucede si un estudiante acumula más del 20% de inasistencias a una clase presencial?,"Pierde la asignatura automáticamente y recibe una calificación de 0.1, la cual afecta su promedio académico."
+¿Quién es el rector de la Universidad Sergio Arboleda?,Jorge Noguera Calderón es el rector de la Universidad Sergio Arboleda.
+¿Quién preside el Consejo Directivo de la Universidad Sergio Arboleda?,Gabriel Florentino Melo Guevara es el presidente del Consejo Directivo de la Universidad Sergio Arboleda.
+¿Quién es el vicerrector de Crecimiento y Calidad de la Universidad Sergio Arboleda?,Germán Quintero Andrade ocupa el cargo de vicerrector de Crecimiento y Calidad.
+¿Quién es el director de la Oficina de Autoevaluación y Acreditación?,Cristian Díaz Jáuregui es el director de la Oficina de Autoevaluación y Acreditación.
+¿Quién es la Coordinadora de Promoción y Divulgación en la Escuela de Ciencias Exactas e Ingeniería?,Natalia Beltrán García es la Coordinadora de Promoción y Divulgación.
+¿Cuál es el correo electrónico de Natalia Beltrán García?,natalia.beltran@usa.edu.co
+¿Quién coordina académicamente los posgrados en la Escuela de Ciencias Exactas e Ingeniería?,Lady Lorena Oviedo Quijano es la Coordinadora Académica de Posgrados.
+¿Quién es la Coordinadora de prácticas y egresados en la Escuela?,Sandra Rodríguez Forigua es la Coordinadora de prácticas y egresados.
+¿Cuál es el correo electrónico de Sandra Rodríguez Forigua?,sandra.rodriguezf@usa.edu.co
+¿Quién es la Coordinadora Académica con formación en Psicología Educativa?,Edny Liliana Castro León es la Coordinadora Académica con formación en Psicología Educativa.
+¿Qué experiencia tiene Ricardo Galvis en la Escuela de Ciencias Exactas e Ingeniería?,"Ricardo Galvis tiene experiencia en la gestión académica y financiera de posgrados, incluyendo matrículas, calendario académico, novedades académicas y control de mallas curriculares."
+¿Quién es la Coordinadora Académica con experiencia en marketing y gerencia comercial?,Heyly Alexandra Castelblanco Suárez.
+¿Quién es la Coordinadora Académica especializada en trade marketing y análisis de datos?,Valentina Mendivelso.
+¿Qué funciones desempeña Stephy Zambrano?,"Es asistente de programa, con experiencia en funciones administrativas y de servicio al cliente en proyectos empresariales y entidades públicas."
+¿Quién es la asistente con experiencia en psicología y procesos administrativos?,Evelin Forero Bustos.
+¿Qué experiencia tiene Milena Paola Lozano Sánchez?,"Es asistente con conocimientos en SAP, Excel y experiencia como cajera y secretaria en la Universidad Sergio Arboleda."
+¿Quién es el Decano de la Escuela de Ciencias Exactas e Ingeniería?,Luis Alejandro Ángel Acosta es el Decano de la Escuela de Ciencias Exactas e Ingeniería.
+¿Qué formación académica tiene Luis Alejandro Ángel Acosta?,"Es Executive MBA con grado Cum Laude, Magíster en Ingeniería Industrial y es Ingeniero Electrónico, con experiencia en liderazgo y gestión de organizaciones."
+¿Quién es el Director del Área de Ingeniería y Tecnología?,Camilo José Salazar Palacio es el Director del Área de Ingeniería y Tecnología.
+¿Quién es la Directora del Área de Ingeniería y Organizaciones?,Diany Marcela Puccini Martínez es la Directora del Área de Ingeniería y Organizaciones.
+¿Quién dirige el Área de Ciencias Básicas y Matemáticas?,Martha Lucía Corrales Bossio es la Directora del Área de Ciencias Básicas y Matemáticas.
+¿Quién es la Directora del Área de Ingeniería y Medio Ambiente?,María Clara Sánchez Vanegas es la Directora del Área de Ingeniería y Medio Ambiente.
+¿Quién está a cargo del Observatorio Astronómico de la Universidad Sergio Arboleda?,Raúl Joya es el Director del Observatorio Astronómico.
+¿Cuál es el correo electrónico del Decano de la Escuela de Ciencias Exactas e Ingeniería?,El correo electrónico del Decano Luis Alejandro Ángel Acosta es luis.angel@usa.edu.co
+¿Qué título profesional tiene el Decano Luis Alejandro Ángel Acosta?,Es Ingeniero Electrónico con Magíster en Ingeniería Industrial y Executive MBA Cum Laude.
+¿Cuál es la experiencia del Decano Luis Alejandro Ángel Acosta?,"Tiene más de 20 años de experiencia en procesos formativos, 10 en docencia y gestión académica y 7 en dirección de unidades académicas."
+¿Cuál es el correo electrónico del Director del Área de Ingeniería y Tecnología?,El correo electrónico de Camilo José Salazar Palacio es camilo.salazar@usa.edu.co
+¿Qué formación tiene Camilo José Salazar Palacio?,"Es Ingeniero Electrónico, especialista en telecomunicaciones y tiene maestría en Telecomunicaciones y Regulación TIC."
+¿Cuál es el correo electrónico de la Directora del Área de Ingeniería y Organizaciones?,El correo electrónico de Diany Marcela Puccini Martínez es diany.puccini@usa.edu.co
+¿Qué experiencia tiene Diany Marcela Puccini Martínez?,"Tiene experiencia en gestión de proyectos, educación superior y liderazgo, con formación en desarrollo, género y políticas públicas."
+¿Cuál es el correo electrónico de la Directora del Área de Ciencias Básicas y Matemáticas?,El correo electrónico de Martha Lucía Corrales Bossio es coordinacion.matematicas@usa.edu.co
+¿Qué títulos tiene Martha Lucía Corrales Bossio?,"Es Ingeniera de Sistemas con Especialización, Maestría y Doctorado en Estadística."
+¿Cuál es el correo electrónico de la Directora del Área de Ingeniería y Medio Ambiente?,El correo electrónico de María Clara Sánchez Vanegas es mariacla.sanchez@usa.edu.co
+¿Qué formación tiene María Clara Sánchez Vanegas?,"Es Ingeniera Industrial, especialista en gerencia ambiental y doctora en turismo, economía y gestión."
+¿Cuál es el correo electrónico del Director del Observatorio Astronómico?,El correo electrónico de Raúl Joya es raul.joya@usa.edu.co
+¿Qué documento se modifica mediante la Resolución de Decanatura No. 1146?,Se modifica el artículo segundo del Manual de Prácticas Profesionales de la Escuela de Ciencias Exactas e Ingeniería de la Universidad Sergio Arboleda.
+¿Cuál es el propósito de esta resolución?,Definir un ámbito de aplicación con condiciones uniformes para los programas de ingeniería.
+¿Qué programas están cobijados por el nuevo ámbito de aplicación?,"Ingeniería Industrial, Ingeniería de Sistemas y Telecomunicaciones, Ingeniería Electrónica e Ingeniería Ambiental."
+¿Qué requisito académico debe cumplir un estudiante para cursar la práctica profesional?,Haber cursado y aprobado el 85% de los créditos totales del programa académico.
+¿Qué asignaturas no debe tener pendientes un estudiante que quiera realizar la práctica profesional?,"No debe tener pendientes asignaturas de Ciencias Básicas, Ciencias Básicas de Ingeniería y Humanidades (excepto Humanidades II - Electiva)."

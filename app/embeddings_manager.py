@@ -19,13 +19,15 @@ class EmbeddingsManager:
         if os.path.exists(path_embedding):
             self.df = pd.read_csv(path_embedding)
         else:
+            print("Generando Embedding")
             embedding = pd.read_csv(path_data)
             embedding['Embedding'] = embedding['PREGUNTA'].apply(
                 lambda x: get_embedding(x, engine=EMBEDDING_ENGINE))
             embedding.to_csv('data/embeddings.csv')
             self.df = embedding
+            print("Embedding generado correctamente")
 
-    def search(self, query, n_results=2, similarity_threshold=0.83):
+    def search(self, query, n_results=2, similarity_threshold=0.75):
         """
         Searches for the most similar responses to a given query in the embedded data.
 

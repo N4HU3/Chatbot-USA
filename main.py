@@ -1,11 +1,7 @@
 import os
 from datetime import datetime, timezone
-from typing import Optional, Dict
-
 from flask import Flask, render_template, request, jsonify, send_from_directory
 from flask_cors import CORS
-
-from app.document_image_processor import DocumentImageProcessor
 from app.db_model import DBModel, Survey, db, Interactions, Records
 from app.chabot_session import ChatbotSession
 from config.conf import API_KEY, SECRET_KEY, SQLALCHEMY_DATABASE_URI

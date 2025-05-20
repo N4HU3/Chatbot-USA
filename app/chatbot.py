@@ -1,4 +1,4 @@
-from config.conf import ROLE
+from config.conf import ROLE, SUBJECT_INFO
 from app.embeddings_manager import EmbeddingsManager
 from app.openai_api import OpenAIApi
 
@@ -19,7 +19,7 @@ class Chatbot:
         self.openai = OpenAIApi(api_key)
         self.embeddings = EmbeddingsManager(embeddings_path, data_path)
         self.conversation = []
-        self.conversation = [ROLE]
+        self.conversation = [SUBJECT_INFO,ROLE]
 
     def ask_question(self, question):
         """
